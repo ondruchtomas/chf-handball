@@ -1,0 +1,67 @@
+"Local.Match.ID","Home.Team.Init","Away.Team.Init","Home.Team.Name","Away.Team.Name","Match.Date","Home.Team.Goals","Away.Team.Goals","Attendance","Referees","Home.Coach","Home.Assistant","Away.Coach","Away.Assistant","Home.Team.Halftime.Goals","Away.Team.Halftime.Goals","Home.Team.7m.Goals","Away.Team.7m.Goals"
+1,"KAR","LOV","HCB Karviná","HK FCC Mesto Lovosice",2018-11-21,33,32,"712","Milan Hájek, Karel Macho","Marek Michalisko","Jirí Tabara","Roman Jelínek","Pavel Haken",14,13,4,2
+2,"BRN","JIC","SKKP Handball Brno","HBC Ronal Jicín",2018-11-21,28,26,"342","Marek Becicka, Jirí Horák","Andrej Titkov","Pavel Cejka","Aleš Babák","Petr Kyncl",12,11,2,6
+3,"KOP","DUK","KH Koprivnice","HC Dukla Praha",2018-11-24,31,22,"530","Jirí Králícek, Milan Letev","Lubomír Vermirovský","Igor Fulnek","Daniel Curda","Jirí Kotrc",16,11,4,2
+4,"ZUB","HRA","HC ROBE Zubrí","TJ Cement Hranice",2018-11-24,24,21,"915","Tomáš Kozler, Martin Zych","Dušan Poloz","Zbynek Mizera","Libor Hrabal","Tomáš Pernicka",13,12,3,0
+5,"PLZ","NOV","Talent ROBSTAV-M.A.T.Plzen","TJ Sokol Nové Veselí",2018-11-25,26,22,"820","Michal Hanák, Luboš Pavlícek","Michal Tonar","Stanislav Raizl","Pavel Hladík","Stanislav Krcál",10,13,2,1
+6,"FRM","LIT","Pepino SKP Frýdek-Místek","TJ Tatran Litovel",2018-11-25,38,26,"232","Adam Baader, Jirí Novotný","Lubomír Kavka","Petr Mazur","Ivo Vávra","Jirí Macek",21,13,3,0
+7,"HRA","FRM","TJ Cement Hranice","Pepino SKP Frýdek-Místek",2018-11-17,25,33,"153","Tomáš Bubenícek, Tomáš Petruška","Libor Hrabal","Tomáš Pernicka","Lubomír Kavka","Petr Mazur",12,14,3,1
+8,"LIT","PLZ","TJ Tatran Litovel","Talent ROBSTAV-M.A.T.Plzen",2018-11-17,21,37,"214","Mojmír Valášek, Jaroslav Vychodil","Ivo Vávra","Jirí Macek","Michal Tonar","Stanislav Raizl",12,19,4,7
+9,"NOV","KOP","TJ Sokol Nové Veselí","KH Koprivnice",2018-11-17,26,25,"380","Václav Horácek, Jirí Novotný","Pavel Hladík","Stanislav Krcál","Lubomír Vermirovský","Igor Fulnek",16,14,0,6
+10,"JIC","ZUB","HBC Ronal Jicín","HC ROBE Zubrí",2018-11-17,32,29,"690","Tomáš Kozler, Martin Zych","Aleš Babák","Petr Kyncl","Dušan Poloz","Zbynek Mizera",16,15,1,5
+11,"LOV","BRN","HK FCC Mesto Lovosice","SKKP Handball Brno",2018-11-17,39,34,"537","Jirí Králícek, Milan Letev","Roman Jelínek","Pavel Haken","Andrej Titkov","Vít Kucera",17,16,1,3
+12,"DUK","KAR","HC Dukla Praha","HCB Karviná",2019-02-20,27,28,"150","Jirí Opava, Pavel Válek","Daniel Curda","Jirí Kotrc","Marek Michalisko","Jirí Tabara",14,13,1,1
+13,"ZUB","LOV","HC ROBE Zubrí","HK FCC Mesto Lovosice",2018-11-07,29,26,"562","Václav Horácek, Jirí Novotný","Dušan Poloz","Zbynek Mizera","Roman Jelínek","Pavel Haken",12,14,1,2
+14,"NOV","DUK","TJ Sokol Nové Veselí","HC Dukla Praha",2018-11-10,25,22,"400","Milan Hájek, Karel Macho","Pavel Hladík","Stanislav Krcál","Daniel Curda","Jirí Kotrc",12,12,2,4
+15,"KOP","LIT","KH Koprivnice","TJ Tatran Litovel",2018-11-10,33,14,"480","Michal Hanák, Luboš Pavlícek","Lubomír Vermirovský","Igor Fulnek","Ivo Vávra","Jirí Macek",16,5,1,2
+16,"BRN","KAR","SKKP Handball Brno","HCB Karviná",2018-11-10,22,31,"461","Tomáš Kozler, Martin Zych","Andrej Titkov","Vít Kucera","Marek Michalisko","Jirí Tabara",9,16,2,0
+17,"PLZ","HRA","Talent ROBSTAV-M.A.T.Plzen","TJ Cement Hranice",2018-11-11,35,25,"540","Marek Becicka, Jirí Horák","Michal Tonar","Stanislav Raizl","Libor Hrabal","Tomáš Pernicka",17,14,1,4
+18,"FRM","JIC","Pepino SKP Frýdek-Místek","HBC Ronal Jicín",2018-11-11,36,30,"227","Jirí Králícek, Milan Letev","Lubomír Kavka","Petr Mazur","Aleš Babák","Petr Kyncl",17,15,3,4
+19,"HRA","KOP","TJ Cement Hranice","KH Koprivnice",2018-11-03,23,28,"274","Lukáš Frieser, Radoslav Kavulic","Libor Hrabal","Martin Potiška","Lubomír Vermirovský","Igor Fulnek",12,15,1,0
+20,"DUK","BRN","HC Dukla Praha","SKKP Handball Brno",2018-11-03,34,21,"490","Dalibor Pavlát, Ludek Tocík","Daniel Curda","Jirí Kotrc","Andrej Titkov","Vít Kucera",16,10,1,0
+21,"LOV","FRM","HK FCC Mesto Lovosice","Pepino SKP Frýdek-Místek",2018-11-03,35,29,"477","Michal Hanák, Luboš Pavlícek","Roman Jelínek","Pavel Haken","Lubomír Kavka","Petr Mazur",13,16,2,1
+22,"LIT","NOV","TJ Tatran Litovel","TJ Sokol Nové Veselí",2018-11-03,21,29,"0","Jirí Králícek, Milan Letev","Ivo Vávra","Jirí Macek","Pavel Hladík","Stanislav Krcál",10,14,2,5
+23,"JIC","PLZ","HBC Ronal Jicín","Talent ROBSTAV-M.A.T.Plzen",2018-11-03,29,20,"670","Tomáš Bubenícek, Tomáš Petruška","Aleš Babák","Petr Kyncl","Michal Tonar","Stanislav Raizl",15,10,4,4
+24,"KAR","ZUB","HCB Karviná","HC ROBE Zubrí",2018-11-04,30,23,"948","Marek Becicka, Jirí Horák","Marek Michalisko","Jirí Tabara","Dušan Poloz","Zbynek Mizera",17,11,2,0
+25,"PLZ","LOV","Talent ROBSTAV-M.A.T.Plzen","HK FCC Mesto Lovosice",2018-10-30,32,28,"410","Dalibor Pavlát, Ludek Tocík","Michal Tonar","Stanislav Raizl","Roman Jelínek","Pavel Haken",16,15,1,3
+26,"KOP","JIC","KH Koprivnice","HBC Ronal Jicín",2018-10-31,23,31,"420","Michal Hanák, Luboš Pavlícek","Lubomír Vermirovský","Igor Fulnek","Aleš Babák","Petr Kyncl",10,17,1,3
+27,"FRM","KAR","Pepino SKP Frýdek-Místek","HCB Karviná",2018-10-31,10,0,"415","Václav Horácek, Jirí Novotný","Lubomír Kavka","Petr Mazur","Marek Michalisko","Jirí Tabara",17,18,0,1
+28,"NOV","HRA","TJ Sokol Nové Veselí","TJ Cement Hranice",2018-10-31,25,26,"300","Michael Haramul, Michal Nezbeda","Pavel Hladík","Stanislav Krcál","Libor Hrabal","Tomáš Pernicka",11,12,4,1
+29,"ZUB","BRN","HC ROBE Zubrí","SKKP Handball Brno",2018-10-31,21,20,"853","Adam Baader, Jirí Novotný","Dušan Poloz","Zbynek Mizera","Andrej Titkov","Vít Kucera",11,9,4,3
+30,"LIT","DUK","TJ Tatran Litovel","HC Dukla Praha",2018-10-31,19,38,"200","Petr Kichner, Michal Vacula","Ivo Vávra","Jirí Macek","Daniel Curda","Jirí Kotrc",7,14,1,1
+31,"HRA","LIT","TJ Cement Hranice","TJ Tatran Litovel",2018-10-10,30,24,"170","Milan Hájek, Karel Macho","Libor Hrabal","Martin Potiška","Ivo Vávra","Jirí Macek",16,12,8,2
+32,"LOV","KOP","HK FCC Mesto Lovosice","KH Koprivnice",2018-10-13,31,29,"421","Michael Haramul, Michal Nezbeda","Roman Jelínek","Pavel Haken","Lubomír Vermirovský","Igor Fulnek",13,13,1,2
+33,"BRN","FRM","SKKP Handball Brno","Pepino SKP Frýdek-Místek",2018-10-13,28,28,"380","Mojmír Valášek, Jaroslav Vychodil","Andrej Titkov","Vít Kucera","Lubomír Kavka","Petr Mazur",14,18,2,1
+34,"JIC","NOV","HBC Ronal Jicín","TJ Sokol Nové Veselí",2018-10-13,23,23,"640","Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Pavel Hladík","Stanislav Krcál",17,10,3,2
+35,"DUK","ZUB","HC Dukla Praha","HC ROBE Zubrí",2018-10-14,20,22,"200","Dalibor Pavlát, Ludek Tocík","Daniel Curda","Jirí Kotrc","Dušan Poloz","Zbynek Mizera",11,6,3,1
+36,"KAR","PLZ","HCB Karviná","Talent ROBSTAV-M.A.T.Plzen",2018-10-17,24,22,"896","Václav Horácek, Jirí Novotný","Marek Michalisko","Jirí Tabara","Michal Tonar","Jan Štochl",11,11,3,3
+37,"PLZ","BRN","Talent ROBSTAV-M.A.T.Plzen","SKKP Handball Brno",2018-10-03,28,22,"360","Tomáš Deml, Michal Dvorácek","Michal Tonar","Stanislav Raizl","Andrej Titkov","Vít Kucera",14,7,2,0
+38,"HRA","DUK","TJ Cement Hranice","HC Dukla Praha",2018-10-06,28,27,"220","Marek Becicka, Jirí Horák","Libor Hrabal","Martin Potiška","Daniel Curda","Jirí Kotrc",13,12,6,5
+39,"LIT","JIC","TJ Tatran Litovel","HBC Ronal Jicín",2018-10-06,21,27,"261","Jirí Králícek, Milan Letev","Ivo Vávra","Jirí Macek","Aleš Babák","Petr Kyncl",9,17,1,5
+40,"KOP","KAR","KH Koprivnice","HCB Karviná",2018-10-06,32,32,"560","Premysl Fukala, Radek Mohyla","Lubomír Vermirovský","Igor Fulnek","Marek Michalisko","Jirí Tabara",16,16,4,5
+41,"FRM","ZUB","Pepino SKP Frýdek-Místek","HC ROBE Zubrí",2018-10-07,28,23,"334","Michal Hanák, Luboš Pavlícek","Lubomír Kavka","Petr Mazur","Dušan Poloz","Zbynek Mizera",16,11,2,2
+42,"NOV","LOV","TJ Sokol Nové Veselí","HK FCC Mesto Lovosice",2018-10-07,29,28,"300","Tomáš Kozler, Martin Zych","Pavel Hladík","Stanislav Krcál","Roman Jelínek","Pavel Haken",13,15,5,0
+43,"JIC","HRA","HBC Ronal Jicín","TJ Cement Hranice",2018-09-28,24,23,"570","Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Libor Hrabal","Tomáš Pernicka",15,8,4,1
+44,"ZUB","PLZ","HC ROBE Zubrí","Talent ROBSTAV-M.A.T.Plzen",2018-09-28,26,26,"946","Václav Horácek, Jirí Novotný","Dušan Poloz","Zbynek Mizera","Michal Tonar","Stanislav Raizl",10,14,5,1
+45,"LOV","LIT","HK FCC Mesto Lovosice","TJ Tatran Litovel",2018-09-29,36,28,"428","Michal Hanák, Luboš Pavlícek","Roman Jelínek","Pavel Haken","Ivo Vávra","Jirí Macek",19,13,3,5
+46,"BRN","KOP","SKKP Handball Brno","KH Koprivnice",2018-09-29,26,33,"220","Marek Becicka, Jirí Horák","Andrej Titkov","Vít Kucera","Lubomír Vermirovský","Igor Fulnek",8,15,4,5
+47,"KAR","NOV","HCB Karviná","TJ Sokol Nové Veselí",2018-09-30,27,23,"807","Jirí Králícek, Milan Letev","Marek Michalisko","Jirí Tabara","Pavel Hladík","Stanislav Krcál",12,10,6,4
+48,"DUK","FRM","HC Dukla Praha","Pepino SKP Frýdek-Místek",2018-09-30,22,29,"150","Milan Hájek, Karel Macho","Daniel Curda","Jirí Kotrc","Lubomír Kavka","Petr Mazur",10,16,0,2
+49,"JIC","DUK","HBC Ronal Jicín","HC Dukla Praha",2018-09-19,22,23,"593","Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Daniel Curda","Jirí Kotrc",9,12,3,3
+50,"HRA","LOV","TJ Cement Hranice","HK FCC Mesto Lovosice",2018-09-22,28,24,"221","Tomáš Bubenícek, Tomáš Petruška","Libor Hrabal","Martin Potiška","Roman Jelínek","Pavel Haken",14,11,1,2
+51,"LIT","KAR","TJ Tatran Litovel","HCB Karviná",2018-09-22,20,32,"284","Lukáš Frieser, Radoslav Kavulic","Ivo Vávra","Jirí Macek","Marek Michalisko","Jirí Tabara",10,16,8,1
+52,"NOV","BRN","TJ Sokol Nové Veselí","SKKP Handball Brno",2018-09-22,28,25,"300","Premysl Fukala, Radek Mohyla","Pavel Hladík","Stanislav Krcál","Andrej Titkov","Vít Kucera",13,12,4,2
+53,"KOP","ZUB","KH Koprivnice","HC ROBE Zubrí",2018-09-22,31,25,"450","Jirí Králícek, Milan Letev","Lubomír Vermirovský","Igor Fulnek","Dušan Poloz","Zbynek Mizera",18,11,5,4
+54,"FRM","PLZ","Pepino SKP Frýdek-Místek","Talent ROBSTAV-M.A.T.Plzen",2018-09-23,25,36,"473","Jirí Opava, Pavel Válek","Lubomír Kavka","Petr Mazur","Michal Tonar","Stanislav Raizl",16,19,3,3
+55,"KAR","HRA","HCB Karviná","TJ Cement Hranice",2018-09-12,26,24,"783","Jirí Opava, Pavel Válek","Marek Michalisko","Jirí Tabara","Martin Marek","Lukáš Kubeša",14,11,3,2
+56,"BRN","LIT","SKKP Handball Brno","TJ Tatran Litovel",2018-09-15,22,20,"250","Jirí Novotný, Václav Horácek","Andrej Titkov","Vít Kucera","Ivo Vávra","Jirí Macek",11,10,1,4
+57,"LOV","JIC","HK FCC Mesto Lovosice","HBC Ronal Jicín",2018-09-15,21,19,"460","Milan Hájek, Karel Macho","Roman Jelínek","Pavel Haken","Aleš Babák","Petr Kyncl",10,10,6,0
+58,"ZUB","NOV","HC ROBE Zubrí","TJ Sokol Nové Veselí",2018-09-15,25,27,"974","Tomáš Bubenícek, Tomáš Petruška","Dušan Poloz","Zbynek Mizera","Pavel Hladík","Stanislav Krcál",11,14,3,4
+59,"DUK","PLZ","HC Dukla Praha","Talent ROBSTAV-M.A.T.Plzen",2018-09-16,24,24,"422","Michal Hanák, Luboš Pavlícek","Daniel Curda","Jirí Kotrc","Michal Tonar","Stanislav Raizl",10,11,2,3
+60,"FRM","KOP","Pepino SKP Frýdek-Místek","KH Koprivnice",2018-09-16,30,32,"456","Tomáš Kozler, Martin Zych","Lubomír Kavka","Petr Mazur","Lubomír Vermirovský","Igor Fulnek",13,15,1,1
+61,"NOV","FRM","TJ Sokol Nové Veselí","Pepino SKP Frýdek-Místek",2018-09-07,23,22,"300","Lukáš Frieser, Radoslav Kavulic","Pavel Hladík","Stanislav Krcál","Lubomír Kavka","Petr Mazur",11,10,1,0
+62,"HRA","BRN","TJ Cement Hranice","SKKP Handball Brno",2018-09-08,31,24,"156","Premysl Fukala, Radek Mohyla","Libor Hrabal","Martin Potiška","Andrej Titkov","Vít Kucera",20,12,3,3
+63,"LIT","ZUB","TJ Tatran Litovel","HC ROBE Zubrí",2018-09-08,22,27,"348","Michal Hanák, Luboš Pavlícek","Ivo Vávra","Jirí Macek","Dušan Poloz","Zbynek Mizera",12,14,7,2
+64,"JIC","KAR","HBC Ronal Jicín","HCB Karviná",2018-09-08,27,26,"520","Milan Hájek, Karel Macho","Aleš Babák","Petr Kyncl","Marek Michalisko","Jirí Tabara",11,10,3,0
+65,"KOP","PLZ","KH Koprivnice","Talent ROBSTAV-M.A.T.Plzen",2018-09-08,29,38,"300","Adam Baader, Jirí Novotný","Lubomír Vermirovský","Igor Fulnek","Michal Tonar","Stanislav Raizl",12,21,6,1
+66,"LOV","DUK","HK FCC Mesto Lovosice","HC Dukla Praha",2018-09-08,32,30,"0","Dalibor Pavlát, Ludek Tocík","Roman Jelínek    ","Pavel Haken","Daniel Curda","Jirí Kotrc",18,18,3,0

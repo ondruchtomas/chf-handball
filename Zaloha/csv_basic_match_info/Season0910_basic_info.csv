@@ -1,0 +1,177 @@
+"Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals"
+"Zubrí","Karviná",26,23
+"Karviná","Zubrí",28,26
+"Zubrí","Karviná",23,24
+"Karviná","Zubrí",32,26
+"Dukla","Hranice",36,21
+"Hranice","Dukla",29,25
+"Dukla","Hranice",31,24
+"Hranice","Dukla",32,29
+"Dukla","Hranice",33,32
+"Dukla","Karviná",26,29
+"Zubrí","Hranice",34,27
+"Karviná","Dukla",32,23
+"Hranice","Zubrí",28,32
+"Zubrí","Hranice",35,34
+"Dukla","Karviná",28,22
+"Karviná","Dukla",34,27
+"Koprivnice","Jicín",24,21
+"Lovosice","Plzen",37,30
+"Plzen","Lovosice",30,34
+"Jicín","Koprivnice",32,23
+"Jicín","Lovosice",21,24
+"Koprivnice","Plzen",31,29
+"Lovosice","Jicín",30,25
+"Plzen","Koprivnice",26,23
+"Dukla","Koprivnice",32,21
+"Zubrí","Jicín",25,22
+"Hranice","Lovosice",29,25
+"Karviná","Plzen",30,26
+"Plzen","Karviná",26,29
+"Lovosice","Hranice",34,36
+"Koprivnice","Dukla",26,35
+"Jicín","Zubrí",29,33
+"Dvur Králové","Prerov",26,32
+"Trebon","Frýdek-Místek",28,27
+"Prerov","Trebon",34,27
+"Frýdek-Místek","Dvur Králové",34,27
+"Dvur Králové","Trebon",20,26
+"Frýdek-Místek","Prerov",27,32
+"Frýdek-Místek","Trebon",29,27
+"Prerov","Dvur Králové",31,23
+"Dvur Králové","Frýdek-Místek",33,28
+"Trebon","Prerov",22,28
+"Trebon","Dvur Králové",29,22
+"Prerov","Frýdek-Místek",29,28
+"Trebon","Zubrí",21,34
+"Dukla","Dvur Králové",41,21
+"Hranice","Plzen",35,30
+"Karviná","Frýdek-Místek",47,27
+"Lovosice","Koprivnice",29,28
+"Prerov","Jicín",31,26
+"Dvur Králové","Zubrí",25,30
+"Trebon","Karviná",19,32
+"Jicín","Hranice",17,30
+"Koprivnice","Dukla",25,25
+"Plzen","Lovosice",23,21
+"Frýdek-Místek","Prerov",29,28
+"Karviná","Dvur Králové",35,20
+"Frýdek-Místek","Trebon",33,28
+"Dukla","Plzen",32,20
+"Zubrí","Koprivnice",41,24
+"Lovosice","Jicín",24,24
+"Prerov","Hranice",27,29
+"Dvur Králové","Frýdek-Místek",19,18
+"Trebon","Prerov",30,26
+"Plzen","Zubrí",21,29
+"Jicín","Dukla",19,20
+"Koprivnice","Karviná",23,33
+"Hranice","Lovosice",33,24
+"Prerov","Lovosice",30,31
+"Dukla","Hranice",27,27
+"Trebon","Dvur Králové",29,25
+"Zubrí","Jicín",38,21
+"Karviná","Plzen",31,29
+"Frýdek-Místek","Koprivnice",27,32
+"Dvur Králové","Prerov",22,20
+"Jicín","Karviná",25,36
+"Lovosice","Dukla",30,34
+"Koprivnice","Trebon",29,26
+"Hranice","Zubrí",30,22
+"Plzen","Frýdek-Místek",30,22
+"Dvur Králové","Koprivnice",23,26
+"Trebon","Plzen",29,28
+"Zubrí","Lovosice",28,26
+"Karviná","Hranice",27,31
+"Prerov","Dukla",28,32
+"Frýdek-Místek","Jicín",24,25
+"Koprivnice","Prerov",28,28
+"Lovosice","Karviná",24,23
+"Plzen","Dvur Králové",35,21
+"Dukla","Zubrí",22,20
+"Jicín","Trebon",30,20
+"Hranice","Frýdek-Místek",36,22
+"Dvur Králové","Jicín",22,33
+"Koprivnice","Plzen",28,33
+"Karviná","Dukla",23,24
+"Frýdek-Místek","Lovosice",30,33
+"Prerov","Zubrí",20,37
+"Trebon","Hranice",29,38
+"Dukla","Frýdek-Místek",39,24
+"Lovosice","Trebon",32,26
+"Plzen","Prerov",32,28
+"Jicín","Koprivnice",28,23
+"Zubrí","Karviná",32,24
+"Hranice","Dvur Králové",43,26
+"Frýdek-Místek","Zubrí",28,41
+"Dvur Králové","Lovosice",15,31
+"Koprivnice","Hranice",25,25
+"Prerov","Karviná",26,37
+"Trebon","Dukla",18,27
+"Plzen","Jicín",23,21
+"Dvur Králové","Dukla",27,28
+"Jicín","Prerov",39,25
+"Zubrí","Trebon",32,16
+"Plzen","Hranice",33,29
+"Koprivnice","Lovosice",29,24
+"Frýdek-Místek","Karviná",27,29
+"Dukla","Koprivnice",27,20
+"Lovosice","Plzen",22,24
+"Zubrí","Dvur Králové",45,20
+"Karviná","Trebon",31,27
+"Hranice","Jicín",36,27
+"Prerov","Frýdek-Místek",28,24
+"Dvur Králové","Karviná",23,36
+"Trebon","Frýdek-Místek",27,26
+"Jicín","Lovosice",28,27
+"Koprivnice","Zubrí",25,37
+"Hranice","Prerov",28,18
+"Plzen","Dukla",22,22
+"Dukla","Jicín",24,15
+"Zubrí","Plzen",26,23
+"Karviná","Koprivnice",38,28
+"Lovosice","Hranice",33,32
+"Prerov","Trebon",23,25
+"Frýdek-Místek","Dvur Králové",33,28
+"Plzen","Karviná",30,29
+"Dvur Králové","Trebon",30,27
+"Lovosice","Prerov",39,33
+"Jicín","Zubrí",24,26
+"Koprivnice","Frýdek-Místek",34,26
+"Hranice","Dukla",31,34
+"Karviná","Jicín",31,20
+"Trebon","Koprivnice",26,24
+"Zubrí","Hranice",31,23
+"Frýdek-Místek","Plzen",28,33
+"Prerov","Dvur Králové",35,22
+"Dukla","Lovosice",24,21
+"Plzen","Trebon",30,24
+"Dukla","Prerov",31,20
+"Jicín","Frýdek-Místek",24,23
+"Koprivnice","Dvur Králové",32,29
+"Lovosice","Zubrí",20,19
+"Hranice","Karviná",31,24
+"Dvur Králové","Plzen",29,39
+"Karviná","Lovosice",30,27
+"Prerov","Koprivnice",32,39
+"Frýdek-Místek","Hranice",25,28
+"Trebon","Jicín",32,24
+"Zubrí","Dukla",30,30
+"Lovosice","Frýdek-Místek",28,23
+"Jicín","Dvur Králové",28,21
+"Zubrí","Prerov",36,26
+"Plzen","Koprivnice",31,26
+"Dukla","Karviná",17,26
+"Hranice","Trebon",31,29
+"Trebon","Lovosice",25,24
+"Koprivnice","Jicín",28,28
+"Dvur Králové","Hranice",22,28
+"Prerov","Plzen",29,33
+"Frýdek-Místek","Dukla",27,32
+"Karviná","Zubrí",34,29
+"Karviná","Prerov",30,26
+"Lovosice","Dvur Králové",30,16
+"Zubrí","Frýdek-Místek",43,27
+"Jicín","Plzen",23,24
+"Hranice","Koprivnice",34,27
+"Dukla","Trebon",36,18

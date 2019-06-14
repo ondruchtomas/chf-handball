@@ -1,0 +1,74 @@
+Project - Handball Extraliga in Czech Republic
+
+DATAFRAME: 1698 matches from 2009/10 till Fall 18/19
+
+
+Goal: Prediction of results of handball matches of season 2018/2019, based on data from 2010/11 on (7-meter shoot acc. available for these seasons)
+	-> predict the table for the first part of the season (until splitting into play-off / play-out phase)
+Tools: R Programming Lanugage, chf.cz data, livesport data (archiv)
+Deadline: End of December 2018
+	- Test the prediction on 2018/2019 season
+
+Variables:
+
+Outcome
+	Result
+
+Basic Info
+	Datetime
+	Season
+
+Team Info (Home/Away)
+	Team.Init
+	Last.Season.Pos
+	ATH.Pos
+	ATL.Pos
+	Avg.Pos
+	All.Time.Scored.Goals
+	All.Time.Received.Goals
+	Matches.Played
+	Avg.Goals.Scored
+	Avg.Goals.Received
+	7-meter-goals-scored
+	7-meter-goals-received
+	Total.Wins
+	Total.Losses
+	Avg.Wins
+	Avg.Losses
+	Total.Wins.AtHome
+	Total.Losses.AtHome
+	Avg.Wins.AtHome
+	Avg.Losses.AtHome
+	Avg.Number.of.Home.Visitors (dep. on season)
+	Counteratck.Goals (dep. on season)
+	Goalie.Acc (dep. on season)
+	Shoot.Acc (dep. on season)
+	7-meter.Acc (dep. on season)
+	Nr.of.matches.won.after.lost.halftime
+	Nr.of.matches.lost.after.won.halftime
+	Nr.of.matches.won.with.morethan10.goals.diff
+	Nr.of.matches.lost.with.morethan10.goals.diff
+	Count.in.playoff.or.1-6
+	Count.in.playout.or.7-12
+	Avg.Team.Age (dep. on season)
+	Total.players.150plus.goals (dep. on season)
+	Total.counteratck.players.50plus.goals (dep. on season)
+	Total.7meter.players.40plus.goals (dep. on season)
+	Two.useful.goalies.performance (dep. on season - formula like "nr_of_saves * accuracy" for each goalie)
+	Total.minutes.penalty (dep. on season)
+	Total.red.cards (dep. on season - column -D)
+	Total.players.20plus.2min.penalties (dep. on season)
+	
+
+	
+
+Further variables, if data found:
+	
+	Nr.of.national.players (dep. on season)
+	
+Questions:
+	
+	How to weight data for teams who played only a few seasons in Extraliga (e.g. Nove Veseli, Strakonice, Prerov,...)
+	
+	
+

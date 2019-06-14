@@ -1,0 +1,161 @@
+"Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals"
+"Lovosice","Dukla",29,24
+"Jicín","Plzen",26,23
+"Zubrí","Hranice",26,31
+"Dukla","Jicín",30,28
+"Plzen","Zubrí",30,30
+"Hranice","Lovosice",29,22
+"Plzen","Dukla",25,29
+"Jicín","Hranice",25,20
+"Zubrí","Lovosice",23,26
+"Hranice","Plzen",20,21
+"Lovosice","Jicín",21,29
+"Dukla","Zubrí",25,18
+"Dukla","Hranice",28,25
+"Zubrí","Jicín",30,23
+"Plzen","Lovosice",24,25
+"Hranice","Zubrí",27,22
+"Dukla","Lovosice",25,19
+"Plzen","Jicín",22,22
+"Lovosice","Hranice",28,28
+"Zubrí","Plzen",34,28
+"Jicín","Dukla",28,25
+"Lovosice","Zubrí",27,25
+"Dukla","Plzen",23,23
+"Hranice","Jicín",25,24
+"Zubrí","Dukla",26,25
+"Plzen","Hranice",22,25
+"Jicín","Lovosice",21,20
+"Lovosice","Plzen",26,26
+"Jicín","Zubrí",29,19
+"Hranice","Dukla",25,25
+"Karviná","Koprivnice",37,27
+"KP Brno","Frýdek-Místek",34,29
+"Prerov","KP Brno",27,32
+"Frýdek-Místek","Karviná",28,30
+"Karviná","Prerov",31,27
+"Koprivnice","Frýdek-Místek",33,32
+"Prerov","Koprivnice",22,33
+"KP Brno","Karviná",28,34
+"Koprivnice","KP Brno",35,29
+"Frýdek-Místek","Prerov",39,28
+"Koprivnice","Karviná",30,33
+"Frýdek-Místek","KP Brno",38,25
+"Karviná","Frýdek-Místek",32,31
+"KP Brno","Prerov",26,26
+"Frýdek-Místek","Koprivnice",34,30
+"Prerov","Karviná",29,34
+"Karviná","KP Brno",39,25
+"Koprivnice","Prerov",26,22
+"Prerov","Frýdek-Místek",25,25
+"KP Brno","Koprivnice",25,24
+"Lovosice","Plzen",34,28
+"Zubrí","Dukla",25,22
+"Hranice","KP Brno",30,24
+"Jicín","Karviná",29,26
+"Frýdek-Místek","Prerov",28,23
+"Koprivnice","Lovosice",25,25
+"KP Brno","Zubrí",21,24
+"Plzen","Frýdek-Místek",33,28
+"Karviná","Hranice",26,25
+"Prerov","Jicín",28,25
+"Lovosice","Frýdek-Místek",29,28
+"Jicín","Plzen",22,18
+"Zubrí","Karviná",29,26
+"Koprivnice","Dukla",23,29
+"Hranice","Prerov",32,25
+"Dukla","Lovosice",19,18
+"KP Brno","Koprivnice",25,21
+"Plzen","Hranice",22,28
+"Prerov","Zubrí",26,26
+"Frýdek-Místek","Jicín",29,30
+"Dukla","KP Brno",20,16
+"Lovosice","Jicín",22,30
+"Zubrí","Plzen",21,20
+"Koprivnice","Karviná",29,34
+"Hranice","Frýdek-Místek",35,31
+"KP Brno","Lovosice",22,22
+"Jicín","Hranice",26,19
+"Karviná","Dukla",27,22
+"Prerov","Koprivnice",29,25
+"Frýdek-Místek","Zubrí",32,36
+"Lovosice","Hranice",27,22
+"Dukla","Prerov",36,22
+"Zubrí","Jicín",20,28
+"Koprivnice","Plzen",26,38
+"KP Brno","Karviná",31,33
+"Karviná","Lovosice",23,25
+"Frýdek-Místek","Koprivnice",33,29
+"Hranice","Zubrí",34,19
+"Prerov","KP Brno",24,26
+"Plzen","Dukla",25,23
+"KP Brno","Plzen",20,20
+"Dukla","Frýdek-Místek",28,22
+"Jicín","Koprivnice",29,21
+"Karviná","Prerov",30,24
+"Lovosice","Zubrí",32,32
+"Prerov","Lovosice",22,39
+"Jicín","Dukla",22,20
+"Plzen","Karviná",31,21
+"Frýdek-Místek","KP Brno",27,27
+"Hranice","Koprivnice",33,28
+"Dukla","Hranice",19,15
+"KP Brno","Jicín",26,26
+"Karviná","Frýdek-Místek",40,29
+"Koprivnice","Zubrí",26,32
+"Prerov","Plzen",17,29
+"Dukla","Zubrí",28,22
+"Karviná","Jicín",23,29
+"Prerov","Frýdek-Místek",27,27
+"KP Brno","Hranice",25,26
+"Plzen","Lovosice",28,24
+"Lovosice","Koprivnice",37,27
+"Jicín","Prerov",28,22
+"Zubrí","KP Brno",33,27
+"Hranice","Karviná",27,30
+"Frýdek-Místek","Plzen",27,31
+"Dukla","Koprivnice",31,21
+"Karviná","Zubrí",29,27
+"Prerov","Hranice",40,36
+"Plzen","Jicín",25,22
+"Frýdek-Místek","Lovosice",24,27
+"Jicín","Frýdek-Místek",27,27
+"Zubrí","Prerov",37,22
+"Koprivnice","KP Brno",24,30
+"Lovosice","Dukla",22,22
+"Hranice","Plzen",30,28
+"Jicín","Lovosice",24,24
+"KP Brno","Dukla",26,22
+"Karviná","Koprivnice",37,24
+"Plzen","Zubrí",27,21
+"Frýdek-Místek","Hranice",21,36
+"Zubrí","Frýdek-Místek",34,19
+"Koprivnice","Prerov",34,29
+"Dukla","Karviná",32,27
+"Hranice","Jicín",27,26
+"Lovosice","KP Brno",32,26
+"Hranice","Lovosice",29,26
+"Karviná","KP Brno",29,29
+"Plzen","Koprivnice",37,25
+"Jicín","Zubrí",29,20
+"Prerov","Dukla",23,33
+"Koprivnice","Frýdek-Místek",33,30
+"Dukla","Plzen",27,24
+"KP Brno","Prerov",36,19
+"Zubrí","Hranice",34,29
+"Lovosice","Karviná",23,19
+"Koprivnice","Jicín",22,23
+"Plzen","KP Brno",25,32
+"Zubrí","Lovosice",24,27
+"Prerov","Karviná",25,31
+"Frýdek-Místek","Dukla",27,31
+"Lovosice","Prerov",33,21
+"Karviná","Plzen",26,29
+"Koprivnice","Hranice",29,33
+"Dukla","Jicín",22,23
+"KP Brno","Frýdek-Místek",36,29
+"Jicín","KP Brno",23,23
+"Plzen","Prerov",29,21
+"Hranice","Dukla",30,29
+"Frýdek-Místek","Karviná",31,32
+"Zubrí","Koprivnice",29,22

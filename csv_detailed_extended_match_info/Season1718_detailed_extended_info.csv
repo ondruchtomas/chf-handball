@@ -1,0 +1,182 @@
+"Local.Match.ID","Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals","Match.Date","Attendance","Referees","Home.Coach","Home.Assistant","Away.Coach","Away.Assistant","Phase","Season","CT.Broadcast","Home.Team.Halftime.Goals","Away.Team.Halftime.Goals","Home.Team.7m.Goals","Away.Team.7m.Goals"
+1,"HCB Karviná","M.A.T. Plzen",30,24,"12.5.2018",1213,"Dalibor Pavlát, Ludek Tocík","Marek Michalisko","Jan Užek","Michal Tonar","Stanislav Raizl","FinalsMatch","2017/2018",0,18,11,4,0
+2,"HCB Karviná","M.A.T. Plzen",32,31,"13.5.2018",1270,"Mojmír Valášek, Jaroslav Vychodil","Marek Michalisko","Jan Užek","Michal Tonar","Stanislav Raizl","FinalsMatch","2017/2018",0,15,17,8,3
+3,"M.A.T. Plzen","HCB Karviná",30,29,"19.5.2018",920,"Václav Horácek, Jirí Novotný","Michal Tonar","Stanislav Raizl","Marek Michalisko","Jan Užek","FinalsMatch","2017/2018",0,14,15,1,2
+4,"M.A.T. Plzen","HCB Karviná",29,30,"20.5.2018",1200,"Pavel Blanar, Michael Haramul","Michal Tonar","Stanislav Raizl","Marek Michalisko","Jan Užek","FinalsMatch","2017/2018",0,13,15,0,4
+5,"HC ROBE Zubrí","HK FCC Mesto Lovosice",24,25,"12.5.2018",1183,"Marek Becicka, Jirí Horák","Andrej Titkov","Ivo Tovaryš","Roman Jelínek","Pavel Haken","3rdPlaceMatch","2017/2018",0,14,11,5,3
+6,"HC ROBE Zubrí","HK FCC Mesto Lovosice",34,33,"13.5.2018",1044,"Tomáš Bubenícek, Tomáš Petruška","Andrej Titkov","Ivo Tovaryš","Roman Jelínek","Pavel Haken","3rdPlaceMatch","2017/2018",0,12,15,6,5
+7,"HK FCC Mesto Lovosice","HC ROBE Zubrí",33,30,"19.5.2018",455,"Jirí Opava, Pavel Válek","Roman Jelínek","Pavel Haken","Andrej Titkov","Ivo Tovaryš","3rdPlaceMatch","2017/2018",0,14,13,2,4
+8,"HK FCC Mesto Lovosice","HC ROBE Zubrí",20,30,"20.5.2018",545,"Václav Horácek, Jirí Novotný","Roman Jelínek","Pavel Haken","Andrej Titkov","Ivo Tovaryš","3rdPlaceMatch","2017/2018",0,10,14,0,0
+9,"HC ROBE Zubrí","HK FCC Mesto Lovosice",35,31,"23.5.2018",1328,"Václav Horácek, Jirí Novotný","Andrej Titkov","Ivo Tovaryš","Roman Jelínek","Pavel Haken","3rdPlaceMatch","2017/2018",0,17,13,1,0
+10,"HBC Ronal Jicín","Dukla Praha",21,27,"13.5.2018",390,"Jirí Králícek, Milan Letev","Aleš Babák","Petr Kyncl","Jan Josef","Jirí Kotrc","5thPlaceMatch","2017/2018",0,9,14,4,2
+11,"Dukla Praha","HBC Ronal Jicín",28,22,"16.5.2018",128,"Tomáš Kozler, Martin Zych","Jan Josef","Jirí Kotrc","Aleš Babák","Petr Kyncl","5thPlaceMatch","2017/2018",0,14,10,3,3
+12,"Pepino SKP Frýdek-Místek","Koprivnice",27,28,"13.5.2018",221,"Marek Becicka, Jirí Horák","Jirí Kekrt","Petr Mazur","Lubomír Vermirovský","Igor Fulnek","7thPlaceMatch","2017/2018",0,17,15,1,3
+13,"Koprivnice","Pepino SKP Frýdek-Místek",34,30,"19.5.2018",290,"Premysl Fukala, Radek Mohyla","Lubomír Vermirovský","Igor Fulnek","Jirí Kekrt","Petr Mazur","7thPlaceMatch","2017/2018",0,14,14,2,1
+14,"HCB Karviná","HK FCC Mesto Lovosice",28,25,"28.4.2018",802,"Milan Hájek, Karel Macho","Marek Michalisko","Jan Užek","Roman Jelínek","Pavel Haken","SemifinalsMatch","2017/2018",0,14,12,5,0
+15,"HC ROBE Zubrí","M.A.T. Plzen",30,31,"28.4.2018",1226,"Marek Becicka, Jirí Horák","Andrej Titkov","Ivo Tovaryš","Michal Tonar","Stanislav Raizl","SemifinalsMatch","2017/2018",0,14,15,5,2
+16,"HCB Karviná","HK FCC Mesto Lovosice",24,18,"29.4.2018",894,"Marek Becicka, Jirí Horák","Marek Michalisko","Jan Užek","Roman Jelínek","Pavel Haken","SemifinalsMatch","2017/2018",0,10,11,0,1
+17,"HC ROBE Zubrí","M.A.T. Plzen",26,24,"29.4.2018",1289,"Michal Hanák, Luboš Pavlícek","Andrej Titkov","Ivo Tovaryš","Michal Tonar","Stanislav Raizl","SemifinalsMatch","2017/2018",0,12,14,3,2
+18,"M.A.T. Plzen","HC ROBE Zubrí",24,22,"5.5.2018",580,"Pavel Blanar, Michael Haramul","Michal Tonar","Stanislav Raizl","Andrej Titkov","Ivo Tovaryš","SemifinalsMatch","2017/2018",0,10,9,3,0
+19,"HK FCC Mesto Lovosice","HCB Karviná",33,38,"5.5.2018",472,"Václav Horácek, Jirí Novotný","Roman Jelínek","Pavel Haken","Marek Michalisko","Jan Užek","SemifinalsMatch","2017/2018",0,16,19,2,3
+20,"M.A.T. Plzen","HC ROBE Zubrí",28,25,"6.5.2018",620,"Václav Horácek, Jirí Novotný","Michal Tonar","Stanislav Raizl","Andrej Titkov","Ivo Tovaryš","SemifinalsMatch","2017/2018",0,17,13,1,3
+21,"HBC Ronal Jicín","Koprivnice",31,24,"28.4.2018",290,"Jirí Králícek, Milan Letev","Aleš Babák","Petr Kyncl","Lubomír Vermirovský","Igor Fulnek","5till8placeMatch","2017/2018",0,15,10,3,3
+22,"Pepino SKP Frýdek-Místek","Dukla Praha",27,31,"29.4.2018",316,"Mojmír Valášek, Jaroslav Vychodil","Jirí Kekrt","Petr Mazur","Jan Josef","Jirí Kotrc","5till8placeMatch","2017/2018",0,12,16,6,1
+23,"Koprivnice","HBC Ronal Jicín",28,29,"1.5.2018",300,"Marek Becicka, Jirí Horák","Lubomír Vermirovský","Igor Fulnek","Aleš Babák","Petr Mašát","5till8placeMatch","2017/2018",0,14,10,4,1
+24,"Dukla Praha","Pepino SKP Frýdek-Místek",27,30,"5.5.2018",62,"Milan Hájek, Karel Macho","Jan Josef","Jirí Kotrc","Jirí Kekrt","Petr Mazur","5till8placeMatch","2017/2018",0,13,15,1,3
+25,"M.A.T. Plzen","Dukla Praha",22,21,"14.4.2018",510,"Václav Horácek, Jirí Novotný","Michal Tonar","Stanislav Raizl","Jan Josef","Jirí Kotrc","QuarterfinalsMatch","2017/2018",0,11,11,1,1
+26,"HK FCC Mesto Lovosice","Koprivnice",31,28,"14.4.2018",818,"Pavel Blanar, Michael Haramul","Roman Jelínek","Pavel Haken","Lubomír Vermirovský","Igor Fulnek","QuarterfinalsMatch","2017/2018",0,12,9,2,0
+27,"HC ROBE Zubrí","Pepino SKP Frýdek-Místek",28,23,"14.4.2018",983,"Marek Becicka, Jirí Horák","Andrej Titkov","Ivo Tovaryš","Jirí Kekrt","Petr Mazur","QuarterfinalsMatch","2017/2018",0,15,10,7,6
+28,"HCB Karviná","HBC Ronal Jicín",29,19,"14.4.2018",790,"Lukáš Frieser, Radoslav Kavulic","Marek Michalisko","Jan Užek","Aleš Babák","Petr Kyncl","QuarterfinalsMatch","2017/2018",0,13,11,1,0
+29,"HCB Karviná","HBC Ronal Jicín",28,26,"15.4.2018",710,"Dalibor Pavlát, Ludek Tocík","Marek Michalisko","Jan Užek","Aleš Babák","Petr Kyncl","QuarterfinalsMatch","2017/2018",0,12,11,2,3
+30,"M.A.T. Plzen","Dukla Praha",24,23,"15.4.2018",530,"Premysl Fukala, Radek Mohyla","Michal Tonar","Stanislav Raizl","Jan Josef","Jirí Kotrc","QuarterfinalsMatch","2017/2018",0,14,14,4,1
+31,"HK FCC Mesto Lovosice","Koprivnice",30,25,"15.4.2018",721,"Mojmír Valášek, Jaroslav Vychodil","Roman Jelínek","Pavel Haken","Lubomír Vermirovský","Igor Fulnek","QuarterfinalsMatch","2017/2018",0,16,14,2,4
+32,"HC ROBE Zubrí","Pepino SKP Frýdek-Místek",30,25,"15.4.2018",1034,"Michal Hanák, Luboš Pavlícek","Andrej Titkov","Ivo Tovaryš","Jirí Kekrt","Petr Mazur","QuarterfinalsMatch","2017/2018",0,12,14,2,2
+33,"Dukla Praha","M.A.T. Plzen",24,25,"21.4.2018",260,"Pavel Blanar, Michael Haramul","Jan Josef","Jirí Kotrc","Michal Tonar","Stanislav Raizl","QuarterfinalsMatch","2017/2018",0,10,9,6,3
+34,"Pepino SKP Frýdek-Místek","HC ROBE Zubrí",24,25,"21.4.2018",429,"Tomáš Bubenícek, Tomáš Petruška","Jirí Kekrt","Petr Mazur","Andrej Titkov","Ivo Tovaryš","QuarterfinalsMatch","2017/2018",0,10,15,3,3
+35,"Koprivnice","HK FCC Mesto Lovosice",36,27,"21.4.2018",650,"Václav Horácek, Jirí Novotný","Lubomír Vermirovský","Igor Fulnek","Roman Jelínek","Pavel Haken","QuarterfinalsMatch","2017/2018",0,19,11,3,0
+36,"HBC Ronal Jicín","HCB Karviná",25,26,"21.4.2018",405,"Premysl Fukala, Radek Mohyla","Aleš Babák","Petr Kyncl","Marek Michalisko","Jan Užek","QuarterfinalsMatch","2017/2018",0,12,15,3,5
+37,"Koprivnice","HK FCC Mesto Lovosice",30,33,"22.4.2018",680,"Dalibor Pavlát, Ludek Tocík","Lubomír Vermirovský","Igor Fulnek","Roman Jelínek","Pavel Haken","QuarterfinalsMatch","2017/2018",0,17,18,6,1
+38,"Cement Hranice","SKKP Handball Brno",32,32,"9.5.2018",70,"Tomáš Bubenícek, Tomáš Petruška","Martin Marek","Martin Potiška","Ivan Minarík","Vít Kucera","9till12placeMatch","2017/2018",0,15,18,1,1
+39,"HBC Strakonice 1921","Sokol Nové Veselí",26,31,"19.5.2018",320,"Karel Macho, Michal Nezbeda","Roman Marienka","Jaroslav Houska","Pavel Hladík","Stanislav Krcál","9till12placeMatch","2017/2018",0,14,13,3,2
+40,"Sokol Nové Veselí","Cement Hranice",33,26,"6.5.2018",180,"Jirí Špunar, David Šlezingr","Pavel Hladík","Stanislav Krcál","Martin Marek","Martin Schober","9till12placeMatch","2017/2018",0,13,13,1,3
+41,"SKKP Handball Brno","HBC Strakonice 1921",30,29,"13.5.2018",150,"Milan Hájek, Karel Macho","Ivan Minarík","Vít Kucera","Roman Marienka","Jaroslav Houska","9till12placeMatch","2017/2018",0,15,14,2,5
+42,"SKKP Handball Brno","Sokol Nové Veselí",31,35,"5.5.2018",183,"Jirí Opava, Pavel Válek","Ivan Minarík","Vít Kucera","Pavel Hladík","Stanislav Krcál","9till12placeMatch","2017/2018",0,13,16,1,4
+43,"HBC Strakonice 1921","Cement Hranice",33,38,"5.5.2018",325,"Tomáš Kozler, Martin Zych","Roman Marienka","Jaroslav Houska","Martin Marek","Martin Schober","9till12placeMatch","2017/2018",0,14,18,0,4
+44,"SKKP Handball Brno","Cement Hranice",36,32,"27.4.2018",228,"Karel Macho, Milan Hájek","Ivan Minarík","Vít Kucera","Martin Marek","Martin Stržínek","9till12placeMatch","2017/2018",0,18,14,2,1
+45,"Sokol Nové Veselí","HBC Strakonice 1921",32,15,"28.4.2018",200,"Premysl Fukala, Radek Mohyla","Pavel Hladík","Stanislav Krcál","Roman Marienka","Jaroslav Houska","9till12placeMatch","2017/2018",0,17,7,0,1
+46,"Cement Hranice","Sokol Nové Veselí",26,20,"20.4.2018",60,"Adam Baader, Jirí Novotný","Martin Marek","Martin Potiška","Pavel Hladík","Stanislav Krcál","9till12placeMatch","2017/2018",0,10,7,0,0
+47,"HBC Strakonice 1921","SKKP Handball Brno",29,29,"21.4.2018",370,"Milan Hájek, Karel Macho","Roman Marienka","Jaroslav Houska","Ivan Minarík","Vít Kucera","9till12placeMatch","2017/2018",0,14,14,5,3
+48,"Sokol Nové Veselí","SKKP Handball Brno",32,24,"13.4.2018",250,"Milan Hájek, Karel Macho","Pavel Hladík","Stanislav Krcál","Ivan Minarík","Vít Kucera","9till12placeMatch","2017/2018",0,15,12,3,3
+49,"Cement Hranice","HBC Strakonice 1921",34,27,"14.4.2018",100,"Tomáš Kozler, Martin Zych","Martin Marek","Martin Potiška","Roman Marienka","Jaroslav Houska","9till12placeMatch","2017/2018",0,16,12,3,1
+50,"HK FCC Mesto Lovosice","HBC Strakonice 1921",38,31,"28.3.2018",490,"Tomáš Kozler, Martin Zych","Roman Jelínek","Pavel Haken","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,19,18,2,3
+51,"M.A.T. Plzen","SKKP Handball Brno",30,26,"28.3.2018",520,"Dalibor Pavlát, Ludek Tocík","Michal Tonar","Stanislav Raizl","Ivan Minarík","Vít Kucera","RegularPhaseMatch","2017/2018",0,15,14,7,2
+52,"HCB Karviná","Dukla Praha",28,28,"30.3.2018",1196,"Milan Hájek, Karel Macho","Marek Michalisko","Jan Užek","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,17,14,3,5
+53,"Pepino SKP Frýdek-Místek","HC ROBE Zubrí",24,29,"30.3.2018",587,"Mojmír Valášek, Jaroslav Vychodil","Jirí Kekrt","Petr Mazur","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,14,12,0,2
+54,"Koprivnice","HBC Ronal Jicín",30,23,"30.3.2018",890,"Michal Hanák, Luboš Pavlícek","Lubomír Vermirovský","Igor Fulnek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,16,11,4,6
+55,"Sokol Nové Veselí","Cement Hranice",26,25,"30.3.2018",300,"Václav Horácek, Jirí Novotný","Pavel Hladík","Stanislav Krcál","Martin Marek","Martin Potiška","RegularPhaseMatch","2017/2018",0,15,11,1,3
+56,"HBC Ronal Jicín","Pepino SKP Frýdek-Místek",32,22,"24.3.2018",650,"Lukáš Frieser, Radoslav Kavulic","Aleš Babák","Petr Kyncl","Jirí Kekrt","Petr Mazur","RegularPhaseMatch","2017/2018",0,18,10,2,3
+57,"Dukla Praha","M.A.T. Plzen",25,31,"24.3.2018",360,"Václav Horácek, Jirí Novotný","Jan Josef","Jirí Kotrc","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,13,11,3,1
+58,"HC ROBE Zubrí","HK FCC Mesto Lovosice",31,21,"24.3.2018",1183,"Premysl Fukala, Radek Mohyla","Andrej Titkov","Matej Šustácek","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,15,13,3,2
+59,"Cement Hranice","Koprivnice",34,25,"24.3.2018",180,"Marek Becicka, Jirí Horák","Martin Marek","Martin Potiška","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,20,9,4,4
+60,"SKKP Handball Brno","Sokol Nové Veselí",20,29,"24.3.2018",611,"Michal Hanák, Luboš Pavlícek","Ivan Minarík","Vít Kucera","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,8,13,2,2
+61,"HBC Strakonice 1921","HCB Karviná",29,35,"24.3.2018",405,"Dalibor Pavlát, Ludek Tocík","Roman Marienka","Jaroslav Houska","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,17,16,2,1
+62,"Cement Hranice","SKKP Handball Brno",24,24,"17.3.2018",120,"Marek Becicka, Jirí Horák","Libor Hrabal","Martin Potiška","Ivan Minarík","Jan Schneider","RegularPhaseMatch","2017/2018",0,14,11,3,2
+63,"HK FCC Mesto Lovosice","HBC Ronal Jicín",21,20,"17.3.2018",457,"Jirí Králícek, Milan Letev","Roman Jelínek","Pavel Haken","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,14,12,5,1
+64,"Sokol Nové Veselí","Dukla Praha",18,27,"17.3.2018",300,"Tomáš Bubenícek, Tomáš Petruška","Pavel Hladík","Stanislav Krcál","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,12,14,3,0
+65,"Koprivnice","Pepino SKP Frýdek-Místek",29,32,"17.3.2018",790,"Dalibor Pavlát, Ludek Tocík","Lubomír Vermirovský","Igor Fulnek","Jirí Kekrt","Petr Mazur","RegularPhaseMatch","2017/2018",0,14,17,2,2
+66,"HCB Karviná","HC ROBE Zubrí",23,28,"18.3.2018",1112,"Václav Horácek, Jirí Novotný","Marek Michalisko","Michal Jašcenko","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,9,9,2,0
+67,"M.A.T. Plzen","HBC Strakonice 1921",31,21,"18.3.2018",580,"Mojmír Valášek, Jaroslav Vychodil","Michal Tonar","Stanislav Raizl","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,18,10,2,2
+68,"Dukla Praha","Cement Hranice",30,20,"10.3.2018",195,"Adam Baader, Jirí Novotný","Jan Josef","Jirí Kotrc","Libor Hrabal","Martin Stržínek","RegularPhaseMatch","2017/2018",0,17,12,5,3
+69,"SKKP Handball Brno","Koprivnice",29,34,"10.3.2018",503,"Premysl Fukala, Radek Mohyla","Ivan Minarík","Jan Schneider","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,16,15,1,2
+70,"HBC Ronal Jicín","HCB Karviná",24,28,"10.3.2018",580,"Tomáš Bubenícek, Tomáš Petruška","Aleš Babák","Petr Kyncl","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,10,12,3,1
+71,"HC ROBE Zubrí","M.A.T. Plzen",24,23,"10.3.2018",1182,"Michal Hanák, Luboš Pavlícek","Andrej Titkov","Ivo Tovaryš","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,13,14,2,3
+72,"HBC Strakonice 1921","Sokol Nové Veselí",24,30,"10.3.2018",405,"Milan Hájek, Karel Macho","Roman Marienka","Jaroslav Houska","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,15,13,2,2
+73,"Pepino SKP Frýdek-Místek","HK FCC Mesto Lovosice",32,29,"10.3.2018",421,"Pavel Blanar, Michael Haramul","Jirí Kekrt","Petr Mazur","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,16,11,1,6
+74,"Koprivnice","HK FCC Mesto Lovosice",28,29,"3.3.2018",320,"Michal Hanák, Luboš Pavlícek","Lubomír Vermirovský","Igor Fulnek","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,13,13,3,4
+75,"SKKP Handball Brno","Dukla Praha",30,32,"3.3.2018",658,"Dalibor Pavlát, Ludek Tocík",,"Vít Kucera","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,15,18,4,2
+76,"Sokol Nové Veselí","HC ROBE Zubrí",25,27,"3.3.2018",250,"Marek Becicka, Jirí Horák","Pavel Hladík","Stanislav Krcál","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,10,15,2,3
+77,"HCB Karviná","Pepino SKP Frýdek-Místek",27,22,"4.3.2018",983,"Premysl Fukala, Radek Mohyla","Marek Michalisko","Jan Užek","Jirí Kekrt","Petr Mazur","RegularPhaseMatch","2017/2018",0,15,12,7,2
+78,"Cement Hranice","HBC Strakonice 1921",40,28,"4.3.2018",100,"Tomáš Bubenícek, Tomáš Petruška","Libor Hrabal","Martin Potiška","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,21,12,1,2
+79,"M.A.T. Plzen","HBC Ronal Jicín",23,22,"4.3.2018",460,"Tomáš Kozler, Martin Zych","Michal Tonar","Stanislav Raizl","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,12,12,2,4
+80,"Dukla Praha","Koprivnice",27,22,"24.2.2018",155,"Milan Hájek, Karel Macho","Daniel Curda","Jirí Kotrc","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,13,11,6,1
+81,"HK FCC Mesto Lovosice","HCB Karviná",25,25,"24.2.2018",623,"Marek Becicka, Jirí Horák","Roman Jelínek","Pavel Haken","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,12,14,2,1
+82,"SKKP Handball Brno","HBC Strakonice 1921",33,32,"24.2.2018",545,"Adam Baader, Jirí Novotný","Aleš Korínek","Vít Kucera","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,18,9,2,5
+83,"HBC Ronal Jicín","Sokol Nové Veselí",22,21,"24.2.2018",615,"Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,14,9,2,3
+84,"HC ROBE Zubrí","Cement Hranice",34,28,"24.2.2018",1234,"Martin Kosa, Pavel Švidernoch","Andrej Titkov","Ivo Tovaryš","Libor Hrabal","Martin Potiška","RegularPhaseMatch","2017/2018",0,21,10,5,3
+85,"Pepino SKP Frýdek-Místek","M.A.T. Plzen",23,22,"25.2.2018",452,"Václav Horácek, Jirí Novotný","Jirí Kekrt","Petr Mazur","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,12,11,4,2
+86,"Dukla Praha","HBC Strakonice 1921",32,24,"17.2.2018",260,"Martin Kosa, Pavel Švidernoch","Daniel Curda","Jirí Kotrc","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,16,13,1,1
+87,"SKKP Handball Brno","HC ROBE Zubrí",24,27,"17.2.2018",511,"Tomáš Bubenícek, Tomáš Petruška","Aleš Korínek","Vít Kucera","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,13,15,2,2
+88,"Koprivnice","HCB Karviná",27,32,"17.2.2018",720,"Lukáš Frieser, Radoslav Kavulic","Lubomír Vermirovský","Igor Fulnek","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,12,13,1,0
+89,"Sokol Nové Veselí","Pepino SKP Frýdek-Místek",25,28,"17.2.2018",300,"Mojmír Valášek, Jaroslav Vychodil","Pavel Hladík","Stanislav Krcál","Jirí Kekrt","Petr Mazur","RegularPhaseMatch","2017/2018",0,13,14,2,3
+90,"Cement Hranice","HBC Ronal Jicín",28,22,"18.2.2018",160,"Lukáš Frieser, Radoslav Kavulic","Libor Hrabal","Martin Potiška","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,11,9,2,2
+91,"M.A.T. Plzen","HK FCC Mesto Lovosice",23,30,"18.2.2018",520,"Václav Horácek, Jirí Novotný","Michal Tonar","Stanislav Raizl","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,11,14,1,2
+92,"HK FCC Mesto Lovosice","Sokol Nové Veselí",40,22,"10.2.2018",532,"Michal Hanák, Luboš Pavlícek","Roman Jelínek","Pavel Haken","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,21,8,2,0
+93,"HBC Ronal Jicín","SKKP Handball Brno",30,25,"10.2.2018",450,"Marek Becicka, Jirí Horák","Aleš Babák","Petr Kyncl","Aleš Korínek","Vít Kucera","RegularPhaseMatch","2017/2018",0,14,10,2,1
+94,"HC ROBE Zubrí","Dukla Praha",29,28,"10.2.2018",1238,"Premysl Fukala, Radek Mohyla","Andrej Titkov","Ivo Tovaryš","Jirí Kotrc","Jirí Neumann","RegularPhaseMatch","2017/2018",0,13,18,4,4
+95,"HBC Strakonice 1921","Koprivnice",27,27,"10.2.2018",405,"Pavel Blanar, Michael Haramul","Roman Marienka","Jaroslav Houska","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,10,15,2,5
+96,"HCB Karviná","M.A.T. Plzen",30,27,"11.2.2018",920,"Marek Becicka, Jirí Horák","Marek Michalisko","Michal Jašcenko","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,12,18,4,1
+97,"Pepino SKP Frýdek-Místek","Cement Hranice",31,30,"11.2.2018",350,"Milan Hájek, Karel Macho","Jirí Kekrt","Petr Mazur","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,15,18,2,2
+98,"Dukla Praha","HBC Ronal Jicín",36,25,"3.2.2018",240,"Marek Becicka, Jirí Horák","Daniel Curda","Jirí Kotrc","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,15,15,1,3
+99,"SKKP Handball Brno","Pepino SKP Frýdek-Místek",32,30,"3.2.2018",638,"Michal Hanák, Jirí Králícek","Aleš Korínek","Vít Kucera","Petr Mazur","Milan Sikora","RegularPhaseMatch","2017/2018",0,17,16,1,1
+100,"HBC Strakonice 1921","HC ROBE Zubrí",29,26,"3.2.2018",405,"Tomáš Kozler, Martin Zych","Roman Marienka","Jaroslav Houska","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,13,16,2,2
+101,"Sokol Nové Veselí","HCB Karviná",21,22,"3.2.2018",350,"Lukáš Frieser, Radoslav Kavulic","Pavel Hladík","Stanislav Krcál","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,12,12,0,5
+102,"Cement Hranice","HK FCC Mesto Lovosice",24,27,"4.2.2018",250,"Tomáš Bubenícek, Tomáš Petruška","Libor Hrabal","Martin Potiška","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,14,14,2,0
+103,"M.A.T. Plzen","Koprivnice",28,26,"4.2.2018",650,"Mojmír Valášek, Jaroslav Vychodil","Michal Tonar","Stanislav Raizl","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,11,12,0,2
+104,"Pepino SKP Frýdek-Místek","Dukla Praha",26,34,"16.12.2017",415,"Lukáš Frieser, Radoslav Kavulic","Lubomír Kavka","Petr Mazur","Jan Josef","Daniel Curda","RegularPhaseMatch","2017/2018",0,14,14,2,5
+105,"HBC Ronal Jicín","HBC Strakonice 1921",34,24,"16.12.2017",460,"Premysl Fukala, Radek Mohyla","Aleš Babák","Petr Kyncl","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,18,12,6,4
+106,"HC ROBE Zubrí","Koprivnice",30,30,"16.12.2017",622,"Jirí Králícek, Milan Letev","Andrej Titkov","Ivo Tovaryš","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,18,16,3,7
+107,"SKKP Handball Brno","HK FCC Mesto Lovosice",32,29,"16.12.2017",712,"Mojmír Valášek, Jaroslav Vychodil","Aleš Korínek","Vít Kucera","Roman Jelínek","Radek Provinský","RegularPhaseMatch","2017/2018",1,15,15,4,4
+108,"HCB Karviná","Cement Hranice",32,26,"17.12.2017",875,"Lukáš Frieser, Radoslav Kavulic","Marek Michalisko","Jan Užek","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,16,14,0,1
+109,"M.A.T. Plzen","Sokol Nové Veselí",26,22,"17.12.2017",720,"Premysl Fukala, Radek Mohyla","Michal Tonar","Stanislav Raizl","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,15,6,1,1
+110,"HBC Strakonice 1921","Pepino SKP Frýdek-Místek",29,23,"9.12.2017",380,"Tomáš Kozler, Martin Zych","Roman Marienka","Jaroslav Houska","Lubomír Kavka","Petr Mazur","RegularPhaseMatch","2017/2018",0,13,14,3,1
+111,"Dukla Praha","HK FCC Mesto Lovosice",30,30,"9.12.2017",390,"Václav Horácek, Jirí Novotný","Jan Josef","Jirí Kotrc","Roman Jelínek","Pavel Haken","RegularPhaseMatch","2017/2018",0,15,17,3,2
+112,"SKKP Handball Brno","HCB Karviná",30,27,"9.12.2017",538,"Marek Becicka, Jirí Horák","Ivan Minarík","Vít Kucera","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,11,11,2,2
+113,"HC ROBE Zubrí","HBC Ronal Jicín",28,22,"9.12.2017",423,"Tomáš Bubenícek, Tomáš Petruška","Andrej Titkov","Ivo Tovaryš","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,14,8,4,1
+114,"Koprivnice","Sokol Nové Veselí",28,21,"9.12.2017",540,"Dalibor Pavlát, Ludek Tocík","Lubomír Vermirovský","Igor Fulnek","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,14,11,4,1
+115,"Cement Hranice","M.A.T. Plzen",20,24,"10.12.2017",253,"Dalibor Pavlát, Ludek Tocík","Libor Hrabal","Martin Schober","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,11,12,2,1
+116,"HBC Ronal Jicín","Koprivnice",31,29,"30.11.2017",490,"Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",1,16,16,2,1
+117,"Cement Hranice","Sokol Nové Veselí",26,21,"2.12.2017",450,"Martin Kosa, Pavel Švidernoch","Libor Hrabal","Martin Schober","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,14,7,3,3
+118,"Dukla Praha","HCB Karviná",39,32,"2.12.2017",380,"Pavel Blanar, Michael Haramul","Jan Josef","Jirí Kotrc","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,18,16,4,3
+119,"HBC Strakonice 1921","HK FCC Mesto Lovosice",21,36,"2.12.2017",400,"Pavel Friedel, Tomáš Kucerka","Roman Marienka","Jaroslav Houska","Václav Starý","Pavel Haken","RegularPhaseMatch","2017/2018",0,11,18,4,2
+120,"HC ROBE Zubrí","Pepino SKP Frýdek-Místek",22,21,"3.12.2017",437,"Michal Hanák, Luboš Pavlícek","Andrej Titkov","Ivo Tovaryš","Lubomír Kavka","Petr Mazur","RegularPhaseMatch","2017/2018",0,11,13,0,0
+121,"SKKP Handball Brno","M.A.T. Plzen",30,35,"3.12.2017",519,"Premysl Fukala, Radek Mohyla","Jozef Hanták","Vít Kucera","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,11,18,3,3
+122,"HK FCC Mesto Lovosice","HC ROBE Zubrí",26,24,"25.11.2017",620,"Václav Horácek, Jirí Novotný","Roman Jelínek","Pavel Haken","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,15,12,2,0
+123,"Pepino SKP Frýdek-Místek","HBC Ronal Jicín",31,22,"25.11.2017",467,"Martin Kosa, Pavel Švidernoch","Lubomír Kavka","Petr Mazur","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,13,13,5,5
+124,"Koprivnice","Cement Hranice",32,31,"25.11.2017",650,"Michal Hanák, Luboš Pavlícek","Lubomír Vermirovský","Igor Fulnek","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,17,17,3,1
+125,"HCB Karviná","HBC Strakonice 1921",38,26,"26.11.2017",820,"Tomáš Deml, Michal Dvorácek","Marek Michalisko","Jan Užek","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,19,12,3,5
+126,"M.A.T. Plzen","Dukla Praha",31,31,"26.11.2017",1060,"Václav Horácek, Jirí Novotný","Michal Tonar","Stanislav Raizl","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,13,17,2,2
+127,"Sokol Nové Veselí","SKKP Handball Brno",30,29,"26.11.2017",350,"Adam Baader, Jirí Novotný","Pavel Hladík","Stanislav Krcál","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,18,16,4,3
+128,"Dukla Praha","Sokol Nové Veselí",31,23,"18.11.2017",245,"Marek Becicka, Jirí Horák","Jan Josef","Jirí Kotrc","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,15,11,3,3
+129,"SKKP Handball Brno","Cement Hranice",26,28,"18.11.2017",0,"Lukáš Frieser, Radoslav Kavulic","Jozef Hanták","Vít Kucera","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,15,12,1,1
+130,"HBC Ronal Jicín","HK FCC Mesto Lovosice",20,29,"18.11.2017",700,"Adam Baader, Jirí Novotný","Aleš Babák","Petr Kyncl","Milan Berka","Pavel Haken","RegularPhaseMatch","2017/2018",0,9,12,2,2
+131,"HC ROBE Zubrí","HCB Karviná",33,26,"18.11.2017",500,"Premysl Fukala, Radek Mohyla","Andrej Titkov","Ivo Tovaryš","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,15,15,5,2
+132,"HBC Strakonice 1921","M.A.T. Plzen",25,31,"18.11.2017",405,"Michal Hanák, Luboš Pavlícek","Roman Marienka","Jaroslav Houska","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,13,12,2,4
+133,"Pepino SKP Frýdek-Místek","Koprivnice",26,26,"19.11.2017",551,"Tomáš Bubenícek, Tomáš Petruška","Lubomír Kavka","Petr Mazur","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,14,14,4,1
+134,"HK FCC Mesto Lovosice","Pepino SKP Frýdek-Místek",28,31,"11.11.2017",769,"Marek Becicka, Jirí Horák","Milan Berka","Pavel Haken","Lubomír Kavka","Petr Mazur","RegularPhaseMatch","2017/2018",0,16,17,4,4
+135,"Sokol Nové Veselí","HBC Strakonice 1921",24,27,"11.11.2017",290,"Mojmír Valášek, Jaroslav Vychodil","Pavel Hladík","Stanislav Krcál","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,15,15,2,2
+136,"Koprivnice","SKKP Handball Brno",31,31,"11.11.2017",750,"Václav Horácek, Jirí Novotný","Lubomír Vermirovský","Igor Fulnek","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,16,15,1,4
+137,"HCB Karviná","HBC Ronal Jicín",30,23,"12.11.2017",938,"Dalibor Pavlát, Ludek Tocík","Marek Michalisko","Jan Užek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,17,11,4,2
+138,"Cement Hranice","Dukla Praha",21,16,"12.11.2017",350,"Tomáš Bubenícek, Tomáš Petruška","Libor Hrabal","Martin Potiška","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,11,8,3,1
+139,"M.A.T. Plzen","HC ROBE Zubrí",33,23,"12.11.2017",780,"Marek Becicka, Jirí Horák","Michal Tonar","Stanislav Raizl","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,19,14,2,1
+140,"Pepino SKP Frýdek-Místek","HCB Karviná",26,32,"1.11.2017",499,"Lukáš Frieser, Radoslav Kavulic","Lubomír Kavka","Petr Mazur","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",1,12,20,5,4
+141,"HK FCC Mesto Lovosice","Koprivnice",34,32,"4.11.2017",854,"Pavel Blanar, Michael Haramul","Milan Berka","Pavel Haken","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,18,15,2,3
+142,"Dukla Praha","SKKP Handball Brno",26,21,"4.11.2017",210,"Dalibor Pavlát, Ludek Tocík","Jan Josef","Jirí Kotrc","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,11,8,3,5
+143,"HBC Ronal Jicín","M.A.T. Plzen",26,25,"4.11.2017",680,"Jirí Králícek, Milan Letev","Aleš Babák","Petr Kyncl","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,15,12,3,2
+144,"HC ROBE Zubrí","Sokol Nové Veselí",27,25,"4.11.2017",428,"Tomáš Kozler, Martin Zych","Andrej Titkov","Ivo Tovaryš","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,15,13,3,6
+145,"HBC Strakonice 1921","Cement Hranice",23,29,"4.11.2017",405,"Milan Hájek, Karel Macho","Roman Marienka","Jaroslav Houska","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,10,13,2,2
+146,"M.A.T. Plzen","Pepino SKP Frýdek-Místek",31,20,"11.10.2017",450,"Tomáš Kozler, Martin Zych","Michal Tonar","Stanislav Raizl","Petr Mazur","Milan Sikora","RegularPhaseMatch","2017/2018",0,13,12,0,1
+147,"Cement Hranice","HC ROBE Zubrí",23,31,"12.10.2017",300,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Stržínek","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",1,12,14,2,1
+148,"Sokol Nové Veselí","HBC Ronal Jicín",24,24,"14.10.2017",350,"Michal Hanák, Luboš Pavlícek","Pavel Hladík","Stanislav Krcál","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,13,13,3,0
+149,"Koprivnice","Dukla Praha",34,32,"14.10.2017",580,"Pavel Blanar, Michael Haramul","Lubomír Vermirovský","Igor Fulnek","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,14,14,3,5
+150,"HBC Strakonice 1921","SKKP Handball Brno",24,23,"14.10.2017",405,"Lukáš Frieser, Radoslav Kavulic","Roman Marienka","Jaroslav Houska","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,13,14,3,1
+151,"HCB Karviná","HK FCC Mesto Lovosice",26,26,"15.10.2017",983,"Tomáš Bubenícek, Tomáš Petruška","Marek Michalisko","Jan Užek","Milan Berka","Pavel Haken","RegularPhaseMatch","2017/2018",0,13,12,2,2
+152,"HK FCC Mesto Lovosice","M.A.T. Plzen",25,30,"4.10.2017",410,"Michal Hanák, Luboš Pavlícek","Milan Berka","Pavel Haken","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,13,14,1,3
+153,"HBC Ronal Jicín","Cement Hranice",27,17,"7.10.2017",495,"Tomáš Kozler, Martin Zych","Aleš Babák","Petr Kyncl","Libor Hrabal","Martin Stržínek","RegularPhaseMatch","2017/2018",0,13,12,1,1
+154,"HC ROBE Zubrí","SKKP Handball Brno",29,23,"7.10.2017",438,"Mojmír Valášek, Jaroslav Vychodil","Andrej Titkov","Ivo Tovaryš","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,15,8,4,1
+155,"HBC Strakonice 1921","Dukla Praha",26,26,"7.10.2017",405,"Jirí Králícek, Milan Letev","Roman Marienka","Jaroslav Houska","Jan Josef","Daniel Curda","RegularPhaseMatch","2017/2018",0,13,12,2,1
+156,"HCB Karviná","Koprivnice",36,29,"8.10.2017",963,"Martin Kosa, Pavel Švidernoch","Marek Michalisko","Jan Užek","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,17,15,6,4
+157,"Pepino SKP Frýdek-Místek","Sokol Nové Veselí",21,29,"8.10.2017",396,"Tomáš Bubenícek, Tomáš Petruška","Lubomír Kavka","Petr Mazur","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,9,17,2,1
+158,"M.A.T. Plzen","HCB Karviná",25,28,"27.9.2017",460,"Pavel Blanar, Michael Haramul","Michal Tonar","Stanislav Raizl","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,15,17,1,5
+159,"Dukla Praha","HC ROBE Zubrí",23,20,"30.9.2017",295,"Michal Hanák, Luboš Pavlícek","Jan Josef","Daniel Curda","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,14,7,0,2
+160,"SKKP Handball Brno","HBC Ronal Jicín",31,28,"30.9.2017",187,"Dalibor Pavlát, Ludek Tocík","Jozef Hanták","Vít Kucera","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,12,12,2,2
+161,"Sokol Nové Veselí","HK FCC Mesto Lovosice",25,17,"30.9.2017",350,"Tomáš Kozler, Martin Zych","Pavel Hladík","Stanislav Krcál","Václav Starý","Pavel Haken","RegularPhaseMatch","2017/2018",0,13,10,6,1
+162,"Koprivnice","HBC Strakonice 1921",30,21,"30.9.2017",350,"Adam Baader, Jirí Novotný","Lubomír Vermirovský","Igor Fulnek","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,18,12,5,0
+163,"Cement Hranice","Pepino SKP Frýdek-Místek",21,22,"1.10.2017",230,"Dalibor Pavlát, Ludek Tocík","Libor Hrabal","Martin Potiška","Lubomír Kavka","Petr Mazur","RegularPhaseMatch","2017/2018",0,12,12,2,8
+164,"HK FCC Mesto Lovosice","Cement Hranice",28,22,"9.9.2017",2020,"Václav Horácek, Jirí Novotný","Milan Berka","Pavel Haken","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,13,14,1,4
+165,"HBC Ronal Jicín","Dukla Praha",22,20,"23.9.2017",560,"Milan Hájek, Karel Macho","Aleš Babák","Petr Kyncl","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",0,10,8,3,1
+166,"HC ROBE Zubrí","HBC Strakonice 1921",28,24,"23.9.2017",420,"Tomáš Bubenícek, Tomáš Petruška","Andrej Titkov","Ivo Tovaryš","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,13,14,1,4
+167,"Koprivnice","M.A.T. Plzen",28,26,"23.9.2017",420,"Tomáš Kozler, Martin Zych","Lubomír Vermirovský","Igor Fulnek","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,17,14,3,2
+168,"HCB Karviná","Sokol Nové Veselí",26,33,"24.9.2017",890,"Václav Horácek, Jirí Novotný","Marek Michalisko","Jan Užek","Pavel Hladík","Stanislav Krcál","RegularPhaseMatch","2017/2018",0,12,16,4,2
+169,"Pepino SKP Frýdek-Místek","SKKP Handball Brno",27,28,"24.9.2017",408,"Premysl Fukala, Radek Mohyla","Lubomír Kavka","Petr Mazur","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,15,13,3,2
+170,"Dukla Praha","Pepino SKP Frýdek-Místek",31,27,"16.9.2017",152,"Jirí Opava, Pavel Válek","Jan Josef","Jirí Kotrc","Lubomír Kavka","Petr Mazur","RegularPhaseMatch","2017/2018",0,15,16,4,3
+171,"HK FCC Mesto Lovosice","SKKP Handball Brno",29,27,"16.9.2017",514,"Milan Hájek, Karel Macho","Milan Berka","Pavel Haken","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,13,14,2,2
+172,"Sokol Nové Veselí","M.A.T. Plzen",22,23,"16.9.2017",400,"Tomáš Bubenícek, Tomáš Petruška","Pavel Hladík","Stanislav Krcál","Michal Tonar","Stanislav Raizl","RegularPhaseMatch","2017/2018",0,12,14,1,2
+173,"Koprivnice","HC ROBE Zubrí",29,30,"16.9.2017",580,"Marek Becicka, Jirí Horák","Lubomír Vermirovský","Igor Fulnek","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,13,13,2,2
+174,"HBC Strakonice 1921","HBC Ronal Jicín",26,36,"16.9.2017",380,"Václav Horácek, Jirí Novotný","Roman Marienka","Jaroslav Houska","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2017/2018",0,17,15,2,2
+175,"Cement Hranice","HCB Karviná",33,28,"17.9.2017",360,"Marek Becicka, Jirí Horák","Libor Hrabal","Martin Potiška","Marek Michalisko","Jan Užek","RegularPhaseMatch","2017/2018",0,16,13,4,0
+176,"Sokol Nové Veselí","Koprivnice",23,25,"9.9.2017",427,"Lukáš Frieser, Radoslav Kavulic","Pavel Hladík","Stanislav Krcál","Lubomír Vermirovský","Igor Fulnek","RegularPhaseMatch","2017/2018",0,13,15,3,0
+177,"HBC Ronal Jicín","HC ROBE Zubrí",23,24,"9.9.2017",477,"Premysl Fukala, Radek Mohyla","Aleš Babák","Petr Kyncl","Andrej Titkov","Ivo Tovaryš","RegularPhaseMatch","2017/2018",0,13,12,4,3
+178,"HCB Karviná","SKKP Handball Brno",31,26,"10.9.2017",920,"Milan Hájek, Karel Macho","Marek Michalisko","Jan Užek","Jozef Hanták","Vít Kucera","RegularPhaseMatch","2017/2018",0,14,11,4,4
+179,"M.A.T. Plzen","Cement Hranice",35,31,"10.9.2017",590,"Michal Hanák,","Michal Tonar","Stanislav Raizl","Libor Hrabal","Martin Schober","RegularPhaseMatch","2017/2018",0,20,16,1,2
+180,"Pepino SKP Frýdek-Místek","HBC Strakonice 1921",34,23,"10.9.2017",461,"Marek Becicka, Jirí Horák","Lubomír Kavka","Petr Mazur","Roman Marienka","Jaroslav Houska","RegularPhaseMatch","2017/2018",0,13,13,4,4
+181,"HK FCC Mesto Lovosice","Dukla Praha",29,26,"13.9.2017",435,", Ludek Tocík","Milan Berka","Pavel Haken","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2017/2018",1,15,14,5,2

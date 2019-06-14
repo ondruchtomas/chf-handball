@@ -1,0 +1,193 @@
+"Local.Match.ID","Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals","Match.Date","Attendance","Referees","Home.Coach","Home.Assistant","Away.Coach","Away.Assistant","Phase","Season","CT.Broadcast","Home.Team.Halftime.Goals","Away.Team.Halftime.Goals","Home.Team.7m.Goals","Away.Team.7m.Goals"
+1,"Lovosice","Hranice",32,29,"25.5.2014",421,"Radoslav Kavulic, Libor Skružný","Vladimír Šuma","Pavel Haken","Libor Hrabal","Martin Schober","1till6placeMatch","2013/2014",0,12,17,1,2
+2,"Dukla","Jicín",26,18,"25.5.2014",130,"Bedrich Frieser, Lukáš Frieser","Jirí Kotrc","Daniel Curda","Aleš Babák","Petr Kyncl","1till6placeMatch","2013/2014",0,14,6,2,5
+3,"Plzen","Frýdek-Místek",30,27,"25.5.2014",520,"Bohumil Bruna, Petr Halada","Martin Šetlík","Stanislav Raizl","Aleš Chrastina","Petr Mazur","1till6placeMatch","2013/2014",0,15,13,0,1
+4,"Frýdek-Místek","Dukla",17,26,"17.5.2014",432,"Martin Kosa, Pavel Švidernoch","Aleš Chrastina","Petr Mazur","Jirí Kotrc","Daniel Curda","1till6placeMatch","2013/2014",0,9,11,5,4
+5,"Jicín","Lovosice",27,27,"17.5.2014",460,"Milan Hájek, Karel Macho","Aleš Babák","Petr Kyncl","Vladimír Šuma","Pavel Haken","1till6placeMatch","2013/2014",0,14,14,2,3
+6,"Hranice","Plzen",28,23,"17.5.2014",215,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Schober","Martin Šetlík","Stanislav Raizl","1till6placeMatch","2013/2014",0,12,10,4,0
+7,"Dukla","Lovosice",29,21,"10.5.2014",155,"Marek Becicka, Jirí Horák","Jirí Kotrc","Daniel Curda","Vladimír Šuma","Pavel Haken","1till6placeMatch","2013/2014",0,11,11,2,3
+8,"Plzen","Jicín",30,18,"11.5.2014",1150,"Jirí Králícek, Milan Letev","Martin Šetlík","Stanislav Raizl","Aleš Babák","Petr Kyncl","1till6placeMatch","2013/2014",0,17,10,1,3
+9,"Frýdek-Místek","Hranice",26,27,"11.5.2014",498,"Václav Horácek, Jirí Novotný","Aleš Chrastina","Petr Mazur","Libor Hrabal","Tomáš Galus","1till6placeMatch","2013/2014",0,11,12,3,4
+10,"Lovosice","Plzen",28,29,"3.5.2014",650,"Václav Horácek, Jirí Novotný","Vladimír Šuma","Pavel Haken","Martin Šetlík","Stanislav Raizl","1till6placeMatch","2013/2014",0,17,12,0,0
+11,"Hranice","Dukla",22,20,"4.5.2014",320,"Milan Hájek, Karel Macho","Libor Hrabal","Martin Schober","Pavel Pauza","Jirí Kotrc","1till6placeMatch","2013/2014",0,11,12,2,1
+12,"Jicín","Frýdek-Místek",25,23,"4.5.2014",490,"Radoslav Kavulic, Libor Skružný","Aleš Babák","Petr Kyncl","Aleš Chrastina","Petr Mazur","1till6placeMatch","2013/2014",0,13,11,3,0
+13,"Hranice","Jicín",26,21,"26.4.2014",190,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Schober","Aleš Babák","Petr Kyncl","1till6placeMatch","2013/2014",0,16,10,1,3
+14,"Dukla","Plzen",13,18,"26.4.2014",210,"Dalibor Pavlát, Ludek Tocík","Pavel Pauza","Jirí Kotrc","Martin Šetlík","Stanislav Raizl","1till6placeMatch","2013/2014",0,9,10,0,1
+15,"Frýdek-Místek","Lovosice",25,28,"27.4.2014",478,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Vladimír Šuma","Pavel Haken","1till6placeMatch","2013/2014",0,9,16,2,4
+16,"Frýdek-Místek","Plzen",23,31,"18.4.2014",495,"Jirí Králícek, Milan Letev","Aleš Chrastina","Petr Mazur","Martin Šetlík","Stanislav Raizl","1till6placeMatch","2013/2014",0,12,15,1,1
+17,"Jicín","Dukla",23,20,"18.4.2014",565,"Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Pavel Pauza","Jirí Kotrc","1till6placeMatch","2013/2014",0,13,9,3,1
+18,"Hranice","Lovosice",29,27,"20.4.2014",290,"Radoslav Kavulic, Libor Skružný","Libor Hrabal","Martin Schober","Vladimír Šuma","Pavel Haken","1till6placeMatch","2013/2014",0,15,13,2,4
+19,"Dukla","Frýdek-Místek",28,27,"12.4.2014",110,"Jirí Opava, Pavel Válek","Pavel Pauza","Jirí Kotrc","Aleš Chrastina","Petr Mazur","1till6placeMatch","2013/2014",0,10,13,2,2
+20,"Lovosice","Jicín",28,23,"12.4.2014",523,"Milan Hájek, Karel Macho","Vladimír Šuma","Pavel Haken","Aleš Babák","Petr Kyncl","1till6placeMatch","2013/2014",0,13,10,3,3
+21,"Plzen","Hranice",29,22,"13.4.2014",1070,"Bedrich Frieser, Lukáš Frieser","Martin Šetlík","Stanislav Raizl","Libor Hrabal","Martin Schober","1till6placeMatch","2013/2014",0,16,8,2,4
+22,"Lovosice","Dukla",26,20,"29.3.2014",452,"Michal Nezbeda, Václav Zelenka","Vladimír Šuma","Pavel Haken","Pavel Pauza","Jirí Kotrc","1till6placeMatch","2013/2014",0,12,8,1,1
+23,"Jicín","Plzen",21,22,"29.3.2014",615,"Dalibor Pavlát, Ludek Tocík","Aleš Babák","Petr Kyncl","Martin Šetlík","Stanislav Raizl","1till6placeMatch","2013/2014",0,9,11,4,3
+24,"Hranice","Frýdek-Místek",25,24,"30.3.2014",220,"Milan Hájek, Karel Macho","Libor Hrabal","Martin Schober","Aleš Chrastina","Petr Mazur","1till6placeMatch","2013/2014",0,12,13,4,3
+25,"Dukla","Hranice",21,22,"22.3.2014",190,"Dalibor Pavlát, Ludek Tocík","Pavel Pauza","Jirí Kotrc","Libor Hrabal","Martin Schober","1till6placeMatch","2013/2014",0,11,12,1,0
+26,"Plzen","Lovosice",30,28,"23.3.2014",960,"Václav Horácek, Jirí Novotný","Martin Šetlík","Stanislav Raizl","Vladimír Šuma","Pavel Haken","1till6placeMatch","2013/2014",0,19,13,2,3
+27,"Frýdek-Místek","Jicín",24,23,"23.3.2014",512,"Bedrich Frieser, Lukáš Frieser","Aleš Chrastina","Petr Mazur","Aleš Babák","Petr Kyncl","1till6placeMatch","2013/2014",0,11,13,1,2
+28,"Plzen","Dukla",26,22,"14.3.2014",980,"Jirí Opava, Pavel Válek","Martin Šetlík","Stanislav Raizl","Pavel Pauza","Jirí Kotrc","1till6placeMatch","2013/2014",0,12,11,6,3
+29,"Lovosice","Frýdek-Místek",23,21,"15.3.2014",500,"Radoslav Kavulic, Libor Skružný","Vladimír Šuma","Pavel Haken","Aleš Chrastina","Petr Mazur","1till6placeMatch","2013/2014",0,12,13,1,1
+30,"Jicín","Hranice",18,24,"15.3.2014",640,"Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Libor Hrabal","Martin Schober","1till6placeMatch","2013/2014",0,9,10,0,2
+31,"KP Brno","Zubrí",26,24,"24.5.2014",137,"Milan Hájek, Karel Macho","Jan Hegar","Gabriela Topinková","Jirí Kekrt","Ivo Tovaryš","7till12placeMatch","2013/2014",0,16,12,3,2
+32,"Koprivnice","Zlín",38,30,"25.5.2014",100,"Marek Becicka, Jirí Horák","Jaromír Petrek","Ivo Vávra","Andrej Titkov","Petr Novák","7till12placeMatch","2013/2014",0,18,13,5,2
+33,"Karviná","Prerov",28,22,"25.5.2014",128,"Jirí Králícek, Milan Letev","Marek Michalisko","Radek Gumolka","Kamil Zemánek","Richard Bucek","7till12placeMatch","2013/2014",0,14,15,3,4
+34,"Prerov","Koprivnice",33,28,"17.5.2014",145,"Václav Horácek, Jirí Novotný","Kamil Zemánek","Richard Bucek","Jaromír Petrek","Ivo Vávra","7till12placeMatch","2013/2014",0,17,11,1,4
+35,"Zlín","KP Brno",29,26,"17.5.2014",280,"Radoslav Kavulic, Libor Skružný","Andrej Titkov","Petr Novák","Jan Hegar","Gabriela Topinková","7till12placeMatch","2013/2014",0,16,18,1,1
+36,"Zubrí","Karviná",39,25,"18.5.2014",650,"Marek Becicka, Jirí Horák","Jirí Kekrt","Michal Balhárek","Marek Michalisko","Petr Raszyk","7till12placeMatch","2013/2014",0,22,14,1,0
+37,"Koprivnice","KP Brno",28,26,"10.5.2014",150,"Jirí Vetrovský, Martin Zych","Jaromír Petrek","Ivo Vávra","Jan Hegar","Gabriela Topinková","7till12placeMatch","2013/2014",0,13,10,1,7
+38,"Prerov","Zubrí",31,33,"11.5.2014",177,"Michal Nezbeda, Václav Zelenka","Kamil Zemánek","Jirí Mužík","Jirí Kekrt","Ivo Tovaryš","7till12placeMatch","2013/2014",0,13,14,2,0
+39,"Karviná","Zlín",27,26,"11.5.2014",492,"Tomáš Kozler, Vladimír Vaník","Marek Michalisko","Radek Gumolka","Andrej Titkov","Petr Novák","7till12placeMatch","2013/2014",0,12,14,2,0
+40,"Zlín","Prerov",37,29,"30.4.2014",190,"Bohumil Bruna, Petr Halada","Andrej Titkov","Petr Novák","Kamil Zemánek","Richard Bucek","7till12placeMatch","2013/2014",0,16,11,4,5
+41,"Zubrí","Koprivnice",32,23,"3.5.2014",650,"Jirí Opava, Pavel Válek","Jirí Kekrt","Michal Balhárek","Jaromír Petrek","Ivo Vávra","7till12placeMatch","2013/2014",0,15,12,2,1
+42,"KP Brno","Karviná",26,26,"8.5.2014",227,"Michal Hanák, Jirí Novotný","Jan Hegar","Zdenek Zima","Marek Michalisko","Petr Raszyk","7till12placeMatch","2013/2014",0,14,12,4,5
+43,"Prerov","KP Brno",31,28,"25.4.2014",65,"Michal Hanák, Jirí Novotný","Kamil Zemánek","Richard Bucek","Jan Hegar","Zdenek Zima","7till12placeMatch","2013/2014",0,16,17,5,1
+44,"Koprivnice","Karviná",30,31,"26.4.2014",180,"Bedrich Frieser, Lukáš Frieser","Jaromír Petrek","Ivo Vávra","Marek Michalisko","Radek Gumolka","7till12placeMatch","2013/2014",0,13,18,5,4
+45,"Zlín","Zubrí",31,28,"27.4.2014",250,"Milan Hájek, Karel Macho","Andrej Titkov","Petr Novák","Jirí Kekrt","Ivo Tovaryš","7till12placeMatch","2013/2014",0,16,16,2,5
+46,"Zubrí","KP Brno",23,23,"16.4.2014",390,"Martin Kosa, Pavel Švidernoch","Jirí Kekrt","Michal Balhárek","Jan Hegar","Zdenek Zima","7till12placeMatch","2013/2014",0,11,12,2,0
+47,"Zlín","Koprivnice",26,29,"17.4.2014",180,"Tomáš Bubenícek, Jan Kosmák","Andrej Titkov","Petr Novák","Jaromír Petrek","Ivo Vávra","7till12placeMatch","2013/2014",0,14,13,3,2
+48,"Prerov","Karviná",28,27,"20.4.2014",53,"Milan Hájek, Karel Macho","Kamil Zemánek","Richard Bucek","Marek Michalisko","Radek Gumolka","7till12placeMatch","2013/2014",0,13,11,2,5
+49,"KP Brno","Zlín",29,20,"12.4.2014",158,"Michal Nezbeda, Václav Zelenka","Jan Hegar","Zdenek Zima","Andrej Titkov","Petr Novák","7till12placeMatch","2013/2014",0,16,7,3,1
+50,"Koprivnice","Prerov",33,26,"12.4.2014",250,"Martin Kosa, Pavel Švidernoch","Jaromír Petrek","Ivo Vávra","Kamil Zemánek","Richard Bucek","7till12placeMatch","2013/2014",0,15,13,2,5
+51,"Karviná","Zubrí",28,27,"13.4.2014",498,"Jirí Králícek, Milan Letev","Marek Michalisko","Petr Raszyk","Jirí Kekrt","Ivo Tovaryš","7till12placeMatch","2013/2014",0,15,12,3,3
+52,"KP Brno","Koprivnice",32,30,"29.3.2014",189,"Tomáš Kozler, Vladimír Vaník","Jan Hegar","Gabriela Topinková","Jaromír Petrek","Ivo Vávra","7till12placeMatch","2013/2014",0,17,19,1,3
+53,"Zubrí","Prerov",32,25,"29.3.2014",650,"Jirí Vetrovský, Martin Zych","Jirí Kekrt","Michal Balhárek","Kamil Zemánek","Richard Bucek","7till12placeMatch","2013/2014",0,17,18,1,3
+54,"Zlín","Karviná",26,26,"30.3.2014",250,"Bedrich Frieser, Lukáš Frieser","Andrej Titkov","Petr Novák","Marek Michalisko","Petr Raszyk","7till12placeMatch","2013/2014",0,12,10,2,3
+55,"Koprivnice","Zubrí",28,31,"22.3.2014",200,"Jirí Opava, Pavel Válek","Jaromír Petrek","Ivo Vávra","Jirí Kekrt","Ivo Tovaryš","7till12placeMatch","2013/2014",0,14,14,4,5
+56,"Karviná","KP Brno",28,26,"22.3.2014",216,"Jirí Vetrovský, Martin Zych","Marek Michalisko","Petr Raszyk","Jan Hegar","Zdenek Zima","7till12placeMatch","2013/2014",0,13,16,1,3
+57,"Prerov","Zlín",23,28,"23.3.2014",159,"Jirí Opava, Pavel Válek","Kamil Zemánek","Richard Bucek","Andrej Titkov","Petr Novák","7till12placeMatch","2013/2014",0,11,18,5,2
+58,"KP Brno","Prerov",28,29,"15.3.2014",350,"Marek Becicka, Jirí Horák","Jan Hegar","Zdenek Zima","Kamil Zemánek","Richard Bucek","7till12placeMatch","2013/2014",0,12,16,5,4
+59,"Zubrí","Zlín",24,20,"15.3.2014",700,"Jirí Králícek, Milan Letev","Jirí Kekrt","Michal Balhárek","Andrej Titkov","Petr Novák","7till12placeMatch","2013/2014",0,10,10,3,0
+60,"Karviná","Koprivnice",32,20,"16.3.2014",262,"Martin Kosa, Pavel Švidernoch","Marek Michalisko","Radek Gumolka","Jaromír Petrek","Ivo Vávra","7till12placeMatch","2013/2014",0,12,8,5,4
+61,"Jicín","Zubrí",23,22,"1.3.2014",600,"Tomáš Bubenícek, Jan Kosmák","Aleš Babák","Petr Kyncl","Jirí Kekrt","Michal Balhárek","RegularPhaseMatch","2013/2014",0,11,10,2,1
+62,"Koprivnice","Zlín",31,32,"1.3.2014",260,"Radoslav Kavulic, Libor Skružný","Jaromír Petrek","Ivo Vávra","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,16,18,3,1
+63,"Dukla","Prerov",29,26,"1.3.2014",180,"Tomáš Kozler, Vladimír Vaník","Pavel Pauza","Jirí Kotrc",,"Richard Bucek","RegularPhaseMatch","2013/2014",0,15,9,3,2
+64,"Karviná","Hranice",26,26,"1.3.2014",989,"Marek Becicka, Jirí Horák","Marek Michalisko","Radek Gumolka","Libor Hrabal","Martin Schober","RegularPhaseMatch","2013/2014",0,14,15,5,4
+65,"KP Brno","Plzen",21,20,"1.3.2014",0,"Dalibor Pavlát, Ludek Tocík","Jan Hegar","Zdenek Zima","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,10,9,2,0
+66,"Frýdek-Místek","Lovosice",30,26,"2.3.2014",492,"Václav Horácek, Jirí Novotný","Aleš Chrastina","Petr Mazur","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2013/2014",0,12,14,3,1
+67,"Zubrí","Koprivnice",27,26,"23.2.2014",600,"Bohumil Bruna, Petr Halada","Jirí Kekrt","Michal Balhárek","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,14,15,1,0
+68,"Lovosice","Karviná",24,30,"23.2.2014",750,"Jirí Vetrovský, Martin Zych","Andrea Reznícková","Pavel Haken","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,12,13,3,2
+69,"Prerov","Jicín",25,33,"23.2.2014",252,"Jirí Králícek, Milan Letev","Kamil Zemánek","Richard Bucek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,15,15,5,4
+70,"Hranice","Dukla",27,19,"23.2.2014",320,"Dalibor Pavlát, Ludek Tocík","Libor Hrabal","Martin Schober","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,12,8,3,3
+71,"Plzen","Frýdek-Místek",31,21,"23.2.2014",930,"Jirí Opava, Pavel Válek","Martin Šetlík","Stanislav Raizl","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,15,12,1,4
+72,"Zlín","KP Brno",21,23,"23.2.2014",450,"Marek Becicka, Jirí Horák","Andrej Titkov","Petr Novák","Jan Hegar","Gabriela Topinková","RegularPhaseMatch","2013/2014",0,11,9,2,4
+73,"Dukla","Lovosice",26,26,"15.2.2014",240,"Milan Hájek, Karel Macho","Pavel Pauza","Jirí Kotrc","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2013/2014",0,11,12,3,1
+74,"Jicín","Hranice",24,23,"15.2.2014",445,"Bedrich Frieser, Lukáš Frieser","Aleš Babák","Petr Kyncl","Libor Hrabal","Martin Schober","RegularPhaseMatch","2013/2014",0,12,10,2,2
+75,"Zubrí","Prerov",35,26,"15.2.2014",450,"Luboš Pavlícek, Rostislav Tokoš","Jirí Kekrt","Michal Balhárek","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2013/2014",0,14,13,5,3
+76,"Koprivnice","KP Brno",29,24,"15.2.2014",230,"Michal Nezbeda, Václav Zelenka","Jaromír Petrek","Ivo Vávra","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,12,10,1,1
+77,"Frýdek-Místek","Zlín",29,20,"15.2.2014",463,"Martin Kosa, Pavel Švidernoch","Aleš Chrastina","Petr Mazur","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,16,12,3,6
+78,"Karviná","Plzen",26,22,"16.2.2014",612,"Václav Horácek, Jirí Novotný","Marek Michalisko","Radek Gumolka","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,10,11,4,3
+79,"Lovosice","Jicín",29,25,"8.2.2014",860,"Radoslav Kavulic, Libor Skružný","Andrea Reznícková","Pavel Haken","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,18,12,1,1
+80,"KP Brno","Frýdek-Místek",28,28,"8.2.2014",540,"Luboš Pavlícek, Rostislav Tokoš","Jan Hegar","Zdenek Zima","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,14,15,3,4
+81,"Hranice","Zubrí",30,25,"9.2.2014",310,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Schober","Jirí Kekrt","Michal Balhárek","RegularPhaseMatch","2013/2014",0,16,11,2,1
+82,"Plzen","Dukla",22,23,"9.2.2014",1450,"Marek Becicka, Jirí Horák","Martin Šetlík","Stanislav Raizl","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,10,13,5,4
+83,"Zlín","Karviná",20,26,"9.2.2014",450,"Bedrich Frieser, Lukáš Frieser","Andrej Titkov","Petr Novák","Marek Michalisko","Petr Raszyk","RegularPhaseMatch","2013/2014",0,8,11,2,2
+84,"Prerov","Koprivnice",36,29,"9.2.2014",221,"Jirí Vetrovský, Martin Zych","Kamil Zemánek","Richard Bucek","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,19,13,2,2
+85,"Dukla","Zlín",32,24,"1.2.2014",150,"Jirí Vetrovský, Martin Zych","Pavel Pauza","Jirí Kotrc","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,18,10,2,3
+86,"Koprivnice","Frýdek-Místek",28,29,"1.2.2014",280,"Michal Hanák, Jirí Králícek","Jaromír Petrek","Ivo Vávra","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,13,18,0,5
+87,"Jicín","Plzen",15,19,"1.2.2014",690,"Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,6,12,7,1
+88,"Prerov","Hranice",26,24,"2.2.2014",255,"Michal Hanák, Václav Horácek","Kamil Zemánek","Richard Bucek","Libor Hrabal","Martin Schober","RegularPhaseMatch","2013/2014",0,15,12,1,4
+89,"Karviná","KP Brno",24,19,"2.2.2014",513,"Milan Hájek, Karel Macho","Marek Michalisko","Radek Gumolka","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,12,9,2,1
+90,"Zubrí","Lovosice",27,33,"2.2.2014",600,"Marek Becicka, Jirí Horák","Jirí Kekrt","Michal Balhárek","Vojtech Srba","Pavel Haken","RegularPhaseMatch","2013/2014",0,13,15,6,1
+91,"Frýdek-Místek","Karviná",30,25,"29.1.2014",502,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,17,14,3,2
+92,"Hranice","Koprivnice",40,29,"29.1.2014",210,"Martin Kosa, Pavel Švidernoch","Libor Hrabal","Martin Schober","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,21,9,3,3
+93,"KP Brno","Dukla",26,24,"29.1.2014",650,"Jirí Opava, Pavel Válek","Jan Hegar","Zdenek Zima","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,12,12,4,3
+94,"Plzen","Zubrí",30,16,"29.1.2014",1650,"Bedrich Frieser, Lukáš Frieser","Martin Šetlík","Stanislav Raizl","Jirí Kekrt","Michal Balhárek","RegularPhaseMatch","2013/2014",0,15,6,3,2
+95,"Zlín","Jicín",26,29,"29.1.2014",800,"Václav Horácek, Jirí Novotný","Andrej Titkov","Petr Novák","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,13,12,3,4
+96,"Lovosice","Prerov",32,26,"29.1.2014",450,"Michal Nezbeda, Václav Zelenka","Andrea Reznícková","Pavel Haken","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2013/2014",0,12,14,4,2
+97,"Hranice","Lovosice",27,26,"14.12.2013",280,"Václav Horácek, Jirí Novotný","Libor Hrabal","Martin Schober","Vojtech Srba","Václav Bruža","RegularPhaseMatch","2013/2014",0,15,17,1,1
+98,"Dukla","Frýdek-Místek",36,26,"14.12.2013",120,"Jirí Opava, Pavel Válek","Pavel Pauza","Jirí Kotrc","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,21,11,2,7
+99,"Jicín","KP Brno",26,24,"14.12.2013",618,"Michal Hanák, Petr Novák","Aleš Babák","Petr Kyncl","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,13,12,0,2
+100,"Zubrí","Zlín",24,25,"14.12.2013",600,"Jirí Králícek, Milan Letev","Aleš Korínek","Michal Balhárek","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,11,10,2,0
+101,"Koprivnice","Karviná",30,34,"14.12.2013",320,"Tomáš Bubenícek, Jan Kosmák","Jaromír Petrek","Ivo Vávra","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,17,19,2,1
+102,"Plzen","Prerov",35,19,"14.12.2013",280,"Jirí Vetrovský, Martin Zych","Martin Šetlík","Stanislav Raizl","Jirí Závodník","Richard Bucek","RegularPhaseMatch","2013/2014",0,18,10,2,2
+103,"Lovosice","Koprivnice",32,24,"4.12.2013",650,"Tomáš Kozler, Vladimír Vaník","Andrea Reznícková","Pavel Haken","Jaromír Petrek","Zdenek Kovalák","RegularPhaseMatch","2013/2014",0,16,11,2,2
+104,"Plzen","Hranice",25,18,"4.12.2013",286,"Jirí Opava, Pavel Válek","Martin Šetlík","Stanislav Raizl","Martin Schober","Pavel Kleisl","RegularPhaseMatch","2013/2014",0,17,10,1,1
+105,"Frýdek-Místek","Jicín",28,22,"11.12.2013",471,"Martin Kosa, Pavel Švidernoch","Aleš Chrastina","Petr Mazur","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,19,13,6,3
+106,"Karviná","Dukla",26,20,"11.12.2013",350,"Bedrich Frieser, Lukáš Frieser","Marek Michalisko","Radek Gumolka","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,12,12,3,3
+107,"KP Brno","Zubrí",28,23,"11.12.2013",483,"Marek Becicka, Jirí Horák","Jan Hegar","Zdenek Zima","Aleš Korínek","Michal Balhárek","RegularPhaseMatch","2013/2014",0,16,15,0,2
+108,"Zlín","Prerov",30,26,"11.12.2013",570,"Bohumil Bruna, Petr Halada","Andrej Titkov","Petr Novák","Jirí Závodník","Jirí Mužík","RegularPhaseMatch","2013/2014",0,13,15,2,2
+109,"Prerov","KP Brno",23,36,"6.12.2013",123,"Jirí Opava, Pavel Válek","Jirí Závodník","Jirí Mužík","Jan Hegar","Gabriela Topinková","RegularPhaseMatch","2013/2014",0,6,15,3,4
+110,"Jicín","Karviná",24,20,"7.12.2013",600,"Dalibor Pavlát, Ludek Tocík","Aleš Babák","Petr Kyncl","Marek Michalisko","Zdenek Mrózek","RegularPhaseMatch","2013/2014",0,9,13,5,3
+111,"Zubrí","Frýdek-Místek",26,32,"7.12.2013",700,"Milan Hájek, Karel Macho","Aleš Korínek","Michal Balhárek","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,11,17,4,2
+112,"Koprivnice","Dukla",26,26,"7.12.2013",320,"Luboš Pavlícek, Rostislav Tokoš","Jaromír Petrek","Ivo Vávra","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,12,12,6,2
+113,"Hranice","Zlín",31,22,"8.12.2013",240,"Radoslav Kavulic, Libor Skružný","Libor Hrabal","Martin Schober","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,20,6,1,3
+114,"Lovosice","Plzen",18,22,"10.12.2013",1101,"Michal Hanák, Petr Novák","Andrea Reznícková","Pavel Haken","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,11,11,2,0
+115,"Plzen","Koprivnice",36,25,"30.11.2013",280,"Bohumil Bruna, Petr Halada","Martin Šetlík","Stanislav Raizl","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,16,10,3,4
+116,"Lovosice","Zlín",24,21,"30.11.2013",820,"Martin Kosa, Pavel Švidernoch","Andrea Reznícková","Pavel Haken","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,14,8,5,0
+117,"Dukla","Jicín",29,23,"30.11.2013",280,"Marek Becicka, Jirí Horák","Pavel Pauza","Jirí Kotrc","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,15,11,1,4
+118,"Karviná","Zubrí",26,28,"1.12.2013",650,"Václav Horácek, Jirí Novotný","Marek Michalisko","Radek Gumolka","Aleš Korínek","Michal Balhárek","RegularPhaseMatch","2013/2014",0,13,13,1,6
+119,"Frýdek-Místek","Prerov",42,29,"1.12.2013",465,"Tomáš Bubenícek, Jan Kosmák","Aleš Chrastina","Petr Mazur","Jirí Závodník","Richard Bucek","RegularPhaseMatch","2013/2014",0,17,14,5,4
+120,"KP Brno","Hranice",24,26,"1.12.2013",620,"Michal Hanák, Petr Novák","Jan Hegar","Zdenek Zima","Libor Hrabal","Karel Magrla","RegularPhaseMatch","2013/2014",0,13,10,2,4
+121,"Lovosice","KP Brno",21,16,"23.11.2013",690,"Radoslav Kavulic, Libor Skružný","Vojtech Srba","Pavel Haken","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,11,5,1,0
+122,"Koprivnice","Jicín",16,22,"23.11.2013",350,"Jirí Králícek, Milan Letev","Jaromír Petrek","Ivo Vávra","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,10,16,1,2
+123,"Plzen","Zlín",20,17,"23.11.2013",350,"Jirí Vetrovský, Martin Zych","Martin Šetlík","Stanislav Raizl","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,8,7,1,2
+124,"Zubrí","Dukla",23,29,"24.11.2013",600,"Václav Horácek, Jirí Novotný","Aleš Korínek","Michal Balhárek","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,16,13,4,4
+125,"Prerov","Karviná",33,28,"24.11.2013",210,"Marek Becicka, Jirí Horák","Jirí Závodník","Richard Bucek","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,18,15,4,3
+126,"Hranice","Frýdek-Místek",31,32,"24.11.2013",210,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Schober","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,13,16,3,3
+127,"Lovosice","Frýdek-Místek",33,25,"16.11.2013",700,"Bohumil Bruna, Petr Halada","Andrea Reznícková","Pavel Haken","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,17,11,2,3
+128,"Zubrí","Jicín",22,24,"16.11.2013",600,"Bedrich Frieser, Lukáš Frieser","Aleš Korínek","Michal Balhárek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,9,13,3,1
+129,"Prerov","Dukla",26,30,"17.11.2013",185,"Jirí Králícek, Petr Novák","Jirí Závodník","Jirí Mužík","Pavel Pauza","Jirí Kotrc","RegularPhaseMatch","2013/2014",0,15,16,2,7
+130,"Hranice","Karviná",27,31,"17.11.2013",280,"Michal Hanák, Petr Novák","Libor Hrabal","Martin Schober","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,13,16,1,0
+131,"Plzen","KP Brno",30,18,"17.11.2013",280,"Dalibor Pavlát, Ludek Tocík","Martin Šetlík","Stanislav Raizl","Jan Hegar","Gabriela Topinková","RegularPhaseMatch","2013/2014",0,15,10,2,3
+132,"Zlín","Koprivnice",34,22,"17.11.2013",720,"Tomáš Kozler, Vladimír Vaník","Andrej Titkov","Petr Novák","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,18,10,0,0
+133,"Dukla","Hranice",33,22,"9.11.2013",220,"Milan Hájek, Karel Macho","Pavel Pauza","Jirí Kotrc","Libor Hrabal","Karel Magrla","RegularPhaseMatch","2013/2014",0,13,12,4,0
+134,"KP Brno","Zlín",38,19,"9.11.2013",420,"Luboš Pavlícek, Rostislav Tokoš","Jan Hegar","Zdenek Zima","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,22,7,5,2
+135,"Jicín","Prerov",37,21,"9.11.2013",530,"Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Jirí Závodník","Mojmír Valášek","RegularPhaseMatch","2013/2014",0,19,10,2,0
+136,"Koprivnice","Zubrí",23,30,"9.11.2013",420,"Dalibor Pavlát, Ludek Tocík","Jaromír Petrek","Ivo Vávra","Aleš Korínek","Michal Balhárek","RegularPhaseMatch","2013/2014",0,14,13,3,4
+137,"Karviná","Lovosice",22,27,"10.11.2013",386,"Václav Horácek, Jirí Novotný","Marek Michalisko","Petr Raszyk","Vojtech Srba","Václav Bruža","RegularPhaseMatch","2013/2014",0,10,11,1,2
+138,"Frýdek-Místek","Plzen",16,27,"10.11.2013",425,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,7,15,1,1
+139,"Plzen","Karviná",30,27,"23.10.2013",150,"Michal Hanák, Petr Novák","Martin Šetlík","Stanislav Raizl","Marek Michalisko","Petr Raszyk","RegularPhaseMatch","2013/2014",0,14,14,3,2
+140,"KP Brno","Koprivnice",33,29,"26.10.2013",419,"Marek Becicka, Jirí Horák","Lumír Zátopek","Zdenek Zima","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,17,17,4,4
+141,"Lovosice","Dukla",31,26,"27.10.2013",750,"Václav Horácek, Jirí Novotný","Andrea Reznícková","Pavel Haken","Pavel Pauza","Milan Kotrc","RegularPhaseMatch","2013/2014",0,13,10,4,5
+142,"Prerov","Zubrí",22,38,"27.10.2013",130,"Martin Kosa, Pavel Švidernoch","Jirí Závodník","Mojmír Valášek","Aleš Korínek","Michal Balhárek","RegularPhaseMatch","2013/2014",0,13,16,3,2
+143,"Hranice","Jicín",22,29,"27.10.2013",325,"Jirí Opava, Pavel Válek","Libor Hrabal","Martin Schober","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,11,17,3,3
+144,"Zlín","Frýdek-Místek",24,28,"27.10.2013",850,"Bohumil Bruna, Petr Halada","Andrej Titkov","Petr Novák","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,10,15,1,2
+145,"Jicín","Lovosice",26,24,"16.10.2013",587,"Radoslav Kavulic, Libor Skružný","Aleš Babák","Petr Kyncl","Vojtech Srba","Pavel Haken","RegularPhaseMatch","2013/2014",0,12,11,1,2
+146,"Dukla","Plzen",25,27,"19.10.2013",220,"Bedrich Frieser, Lukáš Frieser","Pavel Pauza","Milan Kotrc","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,12,17,3,4
+147,"Koprivnice","Prerov",34,31,"19.10.2013",420,"Bohumil Bruna, Petr Halada","Jaromír Petrek","Ivo Vávra","Jirí Závodník","Jirí Mužík","RegularPhaseMatch","2013/2014",0,18,15,3,1
+148,"Zubrí","Hranice",29,33,"20.10.2013",800,"Michal Hanák, Petr Novák","Miroslav Celic","Michal Balhárek","Libor Hrabal","Karel Magrla","RegularPhaseMatch","2013/2014",0,13,16,3,2
+149,"Karviná","Zlín",25,23,"20.10.2013",680,"Tomáš Bubenícek, Jan Kosmák","Marek Michalisko","Radek Gumolka","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,11,12,1,0
+150,"Frýdek-Místek","KP Brno",19,20,"20.10.2013",486,"Luboš Pavlícek, Rostislav Tokoš","Aleš Chrastina","Petr Mazur","Jan Hegar","Gabriela Topinková","RegularPhaseMatch","2013/2014",0,9,10,1,3
+151,"Plzen","Jicín",23,19,"9.10.2013",130,"Bedrich Frieser, Lukáš Frieser","Martin Šetlík","Stanislav Raizl","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,13,10,3,3
+152,"Lovosice","Zubrí",36,31,"12.10.2013",910,"Milan Hájek, Karel Macho","Andrea Reznícková","Pavel Haken","Miroslav Celic","Michal Balhárek","RegularPhaseMatch","2013/2014",0,19,11,4,3
+153,"KP Brno","Karviná",29,26,"12.10.2013",422,"Radoslav Kavulic, Libor Skružný","Jan Hegar","Filip Hruza","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2013/2014",0,16,15,4,2
+154,"Hranice","Prerov",24,21,"13.10.2013",270,"Luboš Pavlícek, Rostislav Tokoš","Libor Hrabal","Martin Schober","Jirí Závodník","Mojmír Valášek","RegularPhaseMatch","2013/2014",0,11,11,2,1
+155,"Zlín","Dukla",27,22,"13.10.2013",800,"Václav Horácek, Jirí Novotný","Andrej Titkov","Petr Novák","Pavel Pauza","Milan Kotrc","RegularPhaseMatch","2013/2014",0,11,11,5,3
+156,"Frýdek-Místek","Koprivnice",24,18,"13.10.2013",510,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,10,9,2,2
+157,"Prerov","Lovosice",21,30,"5.10.2013",75,"Dalibor Pavlát, Ludek Tocík","Jirí Závodník","Richard Bucek","Vojtech Srba","Pavel Haken","RegularPhaseMatch","2013/2014",0,11,13,1,2
+158,"Jicín","Zlín",24,20,"5.10.2013",440,"Jirí Vetrovský, Martin Zych","Aleš Babák","Petr Kyncl","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,11,8,5,2
+159,"Zubrí","Plzen",21,31,"5.10.2013",586,"Václav Horácek, Jirí Novotný","Miroslav Celic","Michal Balhárek","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,14,13,1,4
+160,"Koprivnice","Hranice",28,34,"5.10.2013",342,"Martin Kosa, Pavel Švidernoch","Jaromír Petrek","Ivo Vávra","Libor Hrabal","Martin Schober","RegularPhaseMatch","2013/2014",0,13,16,1,3
+161,"Dukla","KP Brno",27,24,"5.10.2013",125,"Tomáš Kozler, Vladimír Vaník","Pavel Pauza","Milan Kotrc","Jan Hegar","Gabriela Topinková","RegularPhaseMatch","2013/2014",0,15,12,2,1
+162,"Karviná","Frýdek-Místek",28,23,"6.10.2013",729,"Jirí Králícek, Milan Letev","Marek Michalisko","Radek Gumolka","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,17,13,4,1
+163,"Prerov","Plzen",22,30,"27.9.2013",125,"Jirí Králícek, Milan Letev","Jirí Závodník","Jirí Mužík","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,9,11,4,3
+164,"Lovosice","Hranice",33,26,"28.9.2013",750,"Tomáš Kozler, Vladimír Vaník","Andrea Reznícková","Pavel Haken","Libor Hrabal","Karel Magrla","RegularPhaseMatch","2013/2014",0,13,14,5,4
+165,"Karviná","Koprivnice",36,30,"29.9.2013",531,"Václav Horácek, Jirí Novotný","Marek Michalisko","Radek Gumolka","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,21,18,2,2
+166,"Zlín","Zubrí",28,21,"29.9.2013",750,"Tomáš Bubenícek, Jan Kosmák","Andrej Titkov","Petr Novák","Miroslav Celic","Michal Balhárek","RegularPhaseMatch","2013/2014",0,12,9,2,2
+167,"Frýdek-Místek","Dukla",33,26,"29.9.2013",640,"Martin Kosa, Pavel Švidernoch","Aleš Chrastina","Petr Mazur","Pavel Pauza","Milan Kotrc","RegularPhaseMatch","2013/2014",0,13,18,5,2
+168,"KP Brno","Jicín",25,21,"29.9.2013",120,"Milan Hájek, Karel Macho","Jan Hegar","Zdenek Zima","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,12,12,3,3
+169,"Koprivnice","Lovosice",28,36,"25.9.2013",300,"Jirí Králícek, Milan Letev","Jaromír Petrek","Ivo Vávra","Vojtech Srba","Pavel Haken","RegularPhaseMatch","2013/2014",0,13,21,6,1
+170,"Jicín","Frýdek-Místek",28,29,"25.9.2013",570,"Dalibor Pavlát, Ludek Tocík","Aleš Babák","Petr Kyncl","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,14,13,4,1
+171,"Zubrí","KP Brno",30,25,"25.9.2013",650,"Marek Becicka, Jirí Horák","Miroslav Celic","Michal Balhárek","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,17,14,3,4
+172,"Prerov","Zlín",24,28,"25.9.2013",185,"Václav Horácek, Jirí Novotný","Jirí Závodník","Jirí Mužík","Andrej Titkov","Petr Novák","RegularPhaseMatch","2013/2014",0,14,11,4,1
+173,"Hranice","Plzen",24,22,"25.9.2013",260,"Michal Hanák, Petr Novák","Libor Hrabal","Martin Schober","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,8,9,2,0
+174,"Dukla","Karviná",27,25,"25.9.2013",130,"Radoslav Kavulic, Libor Skružný","Pavel Pauza","Milan Kotrc","Marek Michalisko","Zdenek Mrózek","RegularPhaseMatch","2013/2014",0,12,13,3,0
+175,"KP Brno","Prerov",30,28,"18.9.2013",418,"Jirí Vetrovský, Martin Zych","Jan Hegar","Zdenek Zima","Jirí Závodník","Richard Bucek","RegularPhaseMatch","2013/2014",0,13,16,5,2
+176,"Plzen","Lovosice",19,21,"21.9.2013",200,"Tomáš Bubenícek, Jan Kosmák","Martin Šetlík","Stanislav Raizl","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2013/2014",0,9,9,2,3
+177,"Dukla","Koprivnice",35,25,"21.9.2013",120,"Dalibor Pavlát, Ludek Tocík","Pavel Pauza","Milan Kotrc","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,19,11,2,1
+178,"Karviná","Jicín",23,20,"22.9.2013",705,"Marek Becicka, Jirí Horák","Marek Michalisko","Radek Gumolka","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2013/2014",0,13,8,1,4
+179,"Zlín","Hranice",28,31,"22.9.2013",650,"Martin Kosa, Pavel Švidernoch","Andrej Titkov","Petr Novák","Libor Hrabal","Karel Magrla","RegularPhaseMatch","2013/2014",0,13,15,2,2
+180,"Frýdek-Místek","Zubrí",26,25,"22.9.2013",460,"Jirí Králícek, Milan Letev","Aleš Chrastina","Petr Mazur","Miroslav Celic","Michal Balhárek","RegularPhaseMatch","2013/2014",0,10,13,4,0
+181,"Zubrí","Karviná",28,27,"14.9.2013",800,"Václav Horácek, Jirí Novotný","Miroslav Celic","Michal Balhárek","Marek Michalisko","Roman Farár","RegularPhaseMatch","2013/2014",0,16,15,3,3
+182,"Koprivnice","Plzen",24,24,"14.9.2013",480,"Luboš Pavlícek, Rostislav Tokoš","Jaromír Petrek","Ivo Vávra","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,12,11,1,2
+183,"Prerov","Frýdek-Místek",29,26,"15.9.2013",178,"Radoslav Kavulic, Libor Skružný","Jirí Závodník","Richard Bucek","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2013/2014",0,15,11,2,7
+184,"Hranice","KP Brno",29,23,"15.9.2013",350,"Tomáš Kozler, Vladimír Vaník","Libor Hrabal","Martin Schober","Jan Hegar","Zdenek Zima","RegularPhaseMatch","2013/2014",0,16,10,4,2
+185,"Zlín","Lovosice",17,27,"15.9.2013",480,"Jirí Vetrovský, Martin Zych","Andrej Titkov","Petr Novák","Vojtech Srba","Pavel Haken","RegularPhaseMatch","2013/2014",0,9,13,1,4
+186,"Jicín","Dukla",21,17,"15.9.2013",620,"Michal Hanák, Petr Novák","Aleš Babák","Petr Kyncl","Pavel Pauza","Milan Kotrc","RegularPhaseMatch","2013/2014",0,12,5,0,0
+187,"Jicín","Koprivnice",32,21,"4.9.2013",580,"Bedrich Frieser, Lukáš Frieser","Aleš Babák","Petr Kyncl","Jaromír Petrek","Ivo Vávra","RegularPhaseMatch","2013/2014",0,15,7,1,4
+188,"Dukla","Zubrí",32,24,"7.9.2013",210,"Bedrich Frieser, Lukáš Frieser","Pavel Pauza","Milan Kotrc","Miroslav Celic","Michal Balhárek","RegularPhaseMatch","2013/2014",0,16,11,2,0
+189,"Karviná","Prerov",27,22,"8.9.2013",400,"Martin Kosa, Pavel Švidernoch","Marek Michalisko","Radek Gumolka","Jirí Závodník","Richard Bucek","RegularPhaseMatch","2013/2014",0,7,9,2,3
+190,"KP Brno","Lovosice",25,24,"8.9.2013",450,"Michal Hanák, Petr Novák","Jan Hegar","Zdenek Zima","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2013/2014",0,15,15,6,0
+191,"Zlín","Plzen",23,25,"8.9.2013",650,"Bedrich Frieser, Lukáš Frieser","Andrej Titkov","Petr Novák","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2013/2014",0,9,15,1,1
+192,"Frýdek-Místek","Hranice",27,32,"8.9.2013",421,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Libor Hrabal","Martin Schober","RegularPhaseMatch","2013/2014",0,15,16,2,3

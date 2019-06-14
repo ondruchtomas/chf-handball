@@ -1,0 +1,180 @@
+"Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals"
+"Dukla Praha","M.A.T. Plzen",22,23
+"Dukla Praha","M.A.T. Plzen",25,21
+"M.A.T. Plzen","Dukla Praha",27,17
+"M.A.T. Plzen","Dukla Praha",24,19
+"Cement Hranice","Baník OKD Karviná",28,35
+"Cement Hranice","Baník OKD Karviná",26,19
+"Baník OKD Karviná","Cement Hranice",20,25
+"Baník OKD Karviná","Cement Hranice",33,35
+"HK FCC Mesto Lovosice","HC Zubrí",26,24
+"HC Zubrí","HK FCC Mesto Lovosice",34,30
+"HBC Ronal Jicín","SKP Frýdek-Místek",32,26
+"SKP Frýdek-Místek","HBC Ronal Jicín",27,23
+"M.A.T. Plzen","Cement Hranice",34,21
+"M.A.T. Plzen","Cement Hranice",33,21
+"Cement Hranice","M.A.T. Plzen",23,24
+"Dukla Praha","Baník OKD Karviná",31,21
+"Dukla Praha","Baník OKD Karviná",27,25
+"Baník OKD Karviná","Dukla Praha",24,28
+"HK FCC Mesto Lovosice","SKP Frýdek-Místek",23,18
+"HBC Ronal Jicín","HC Zubrí",21,30
+"HC Zubrí","HBC Ronal Jicín",30,28
+"SKP Frýdek-Místek","HK FCC Mesto Lovosice",26,24
+"Cement Hranice","SKP Frýdek-Místek",26,20
+"M.A.T. Plzen","HK FCC Mesto Lovosice",28,14
+"Dukla Praha","HBC Ronal Jicín",24,23
+"HC Zubrí","Baník OKD Karviná",28,29
+"Cement Hranice","SKP Frýdek-Místek",23,19
+"M.A.T. Plzen","HK FCC Mesto Lovosice",20,19
+"Dukla Praha","HBC Ronal Jicín",34,24
+"HC Zubrí","Baník OKD Karviná",27,28
+"HK FCC Mesto Lovosice","M.A.T. Plzen",20,28
+"SKP Frýdek-Místek","Cement Hranice",26,29
+"Baník OKD Karviná","HC Zubrí",26,21
+"HBC Ronal Jicín","Dukla Praha",28,27
+"HBC Ronal Jicín","Dukla Praha",26,28
+"Tatran Litovel","KP Brno",32,30
+"KP Brno","Tatran Litovel",27,32
+"Koprivnice","HC Zlín",27,25
+"Koprivnice","HC Zlín",34,33
+"HC Zlín","Koprivnice",22,25
+"Koprivnice","Tatran Litovel",24,26
+"KP Brno","HC Zlín",26,18
+"KP Brno","HC Zlín",26,19
+"Koprivnice","Tatran Litovel",33,29
+"HC Zlín","KP Brno",24,31
+"Tatran Litovel","Koprivnice",22,21
+"Tatran Litovel","Koprivnice",35,27
+"Dukla Praha","HK FCC Mesto Lovosice",30,14
+"Cement Hranice","Baník OKD Karviná",27,22
+"HC Zubrí","M.A.T. Plzen",29,28
+"KP Brno","HC Zlín",28,22
+"Koprivnice","HBC Ronal Jicín",24,22
+"SKP Frýdek-Místek","Tatran Litovel",32,26
+"HBC Ronal Jicín","SKP Frýdek-Místek",24,21
+"HC Zubrí","HC Zlín",40,20
+"Baník OKD Karviná","Koprivnice",35,24
+"HK FCC Mesto Lovosice","Cement Hranice",30,27
+"Tatran Litovel","KP Brno",28,28
+"M.A.T. Plzen","Dukla Praha",34,26
+"Dukla Praha","HC Zlín",26,21
+"KP Brno","HBC Ronal Jicín",21,23
+"HC Zubrí","Tatran Litovel",31,22
+"Baník OKD Karviná","HK FCC Mesto Lovosice",26,23
+"Cement Hranice","M.A.T. Plzen",26,25
+"Koprivnice","SKP Frýdek-Místek",31,32
+"HK FCC Mesto Lovosice","Koprivnice",37,27
+"Tatran Litovel","Dukla Praha",24,26
+"HBC Ronal Jicín","HC Zubrí",24,30
+"M.A.T. Plzen","Baník OKD Karviná",30,22
+"HC Zlín","Cement Hranice",17,29
+"KP Brno","SKP Frýdek-Místek",27,33
+"Dukla Praha","HBC Ronal Jicín",28,22
+"HC Zubrí","SKP Frýdek-Místek",28,19
+"Baník OKD Karviná","HC Zlín",31,15
+"HK FCC Mesto Lovosice","M.A.T. Plzen",24,27
+"Cement Hranice","Tatran Litovel",23,19
+"Koprivnice","KP Brno",25,27
+"SKP Frýdek-Místek","Dukla Praha",24,27
+"M.A.T. Plzen","Koprivnice",27,17
+"KP Brno","HC Zubrí",26,36
+"Tatran Litovel","Baník OKD Karviná",21,26
+"HBC Ronal Jicín","Cement Hranice",27,24
+"HC Zlín","HK FCC Mesto Lovosice",26,29
+"Dukla Praha","KP Brno",33,29
+"HK FCC Mesto Lovosice","Tatran Litovel",30,24
+"Baník OKD Karviná","HBC Ronal Jicín",28,17
+"Cement Hranice","SKP Frýdek-Místek",32,28
+"M.A.T. Plzen","HC Zlín",39,22
+"Koprivnice","HC Zubrí",26,26
+"KP Brno","Cement Hranice",30,38
+"Tatran Litovel","M.A.T. Plzen",24,37
+"HBC Ronal Jicín","HK FCC Mesto Lovosice",25,21
+"HC Zubrí","Dukla Praha",33,32
+"HC Zlín","Koprivnice",33,21
+"SKP Frýdek-Místek","Baník OKD Karviná",36,33
+"HC Zlín","Tatran Litovel",23,22
+"HK FCC Mesto Lovosice","SKP Frýdek-Místek",25,22
+"Baník OKD Karviná","KP Brno",30,21
+"Cement Hranice","HC Zubrí",27,20
+"M.A.T. Plzen","HBC Ronal Jicín",32,19
+"Koprivnice","Dukla Praha",26,33
+"Dukla Praha","Cement Hranice",36,29
+"KP Brno","HK FCC Mesto Lovosice",33,27
+"Tatran Litovel","Koprivnice",29,29
+"HBC Ronal Jicín","HC Zlín",30,15
+"HC Zubrí","Baník OKD Karviná",27,28
+"SKP Frýdek-Místek","M.A.T. Plzen",26,32
+"M.A.T. Plzen","KP Brno",38,26
+"HK FCC Mesto Lovosice","HC Zubrí",24,26
+"Tatran Litovel","HBC Ronal Jicín",24,20
+"Baník OKD Karviná","Dukla Praha",21,24
+"HC Zlín","SKP Frýdek-Místek",24,28
+"Koprivnice","Cement Hranice",28,27
+"M.A.T. Plzen","HC Zubrí",25,28
+"Tatran Litovel","SKP Frýdek-Místek",23,32
+"HBC Ronal Jicín","Koprivnice",28,17
+"Baník OKD Karviná","Cement Hranice",28,31
+"HC Zlín","KP Brno",28,35
+"HK FCC Mesto Lovosice","Dukla Praha",30,26
+"HC Zlín","HC Zubrí",31,42
+"Cement Hranice","HK FCC Mesto Lovosice",24,21
+"Dukla Praha","M.A.T. Plzen",22,22
+"KP Brno","Tatran Litovel",24,24
+"Koprivnice","Baník OKD Karviná",29,29
+"SKP Frýdek-Místek","HBC Ronal Jicín",20,20
+"HK FCC Mesto Lovosice","Baník OKD Karviná",25,20
+"HC Zlín","Dukla Praha",23,32
+"M.A.T. Plzen","Cement Hranice",31,23
+"HBC Ronal Jicín","KP Brno",33,21
+"Tatran Litovel","HC Zubrí",24,31
+"SKP Frýdek-Místek","Koprivnice",29,26
+"SKP Frýdek-Místek","KP Brno",27,22
+"Baník OKD Karviná","M.A.T. Plzen",27,26
+"Dukla Praha","Tatran Litovel",33,22
+"HC Zubrí","HBC Ronal Jicín",31,30
+"Cement Hranice","HC Zlín",29,24
+"Koprivnice","HK FCC Mesto Lovosice",28,26
+"M.A.T. Plzen","HK FCC Mesto Lovosice",36,28
+"KP Brno","Koprivnice",28,23
+"Tatran Litovel","Cement Hranice",23,34
+"HBC Ronal Jicín","Dukla Praha",21,27
+"HC Zlín","Baník OKD Karviná",18,27
+"SKP Frýdek-Místek","HC Zubrí",24,34
+"Koprivnice","M.A.T. Plzen",28,33
+"Dukla Praha","SKP Frýdek-Místek",29,20
+"HK FCC Mesto Lovosice","HC Zlín",25,23
+"HC Zubrí","KP Brno",29,28
+"Baník OKD Karviná","Tatran Litovel",32,25
+"Cement Hranice","HBC Ronal Jicín",30,21
+"KP Brno","Dukla Praha",26,28
+"Tatran Litovel","HK FCC Mesto Lovosice",21,24
+"HBC Ronal Jicín","Baník OKD Karviná",31,22
+"HC Zubrí","Koprivnice",37,28
+"SKP Frýdek-Místek","Cement Hranice",33,28
+"HC Zlín","M.A.T. Plzen",20,34
+"Dukla Praha","HC Zubrí",28,24
+"HK FCC Mesto Lovosice","HBC Ronal Jicín",30,21
+"Baník OKD Karviná","SKP Frýdek-Místek",22,30
+"Cement Hranice","KP Brno",31,29
+"M.A.T. Plzen","Tatran Litovel",34,22
+"Koprivnice","HC Zlín",29,21
+"KP Brno","Baník OKD Karviná",26,30
+"Dukla Praha","Koprivnice",29,27
+"Tatran Litovel","HC Zlín",22,16
+"HBC Ronal Jicín","M.A.T. Plzen",24,20
+"HC Zubrí","Cement Hranice",26,30
+"SKP Frýdek-Místek","HK FCC Mesto Lovosice",27,24
+"HC Zlín","HBC Ronal Jicín",17,21
+"HK FCC Mesto Lovosice","KP Brno",28,27
+"M.A.T. Plzen","SKP Frýdek-Místek",26,26
+"Baník OKD Karviná","HC Zubrí",30,31
+"Cement Hranice","Dukla Praha",20,19
+"Koprivnice","Tatran Litovel",25,35
+"Dukla Praha","Baník OKD Karviná",25,20
+"HC Zubrí","HK FCC Mesto Lovosice",33,33
+"KP Brno","M.A.T. Plzen",22,23
+"Cement Hranice","Koprivnice",30,26
+"HBC Ronal Jicín","Tatran Litovel",25,19
+"SKP Frýdek-Místek","HC Zlín",29,25

@@ -1,0 +1,181 @@
+"Local.Match.ID","Home.Team.Name","Away.Team.Name","Home.Team.Goals","Away.Team.Goals","Match.Date","Attendance","Referees","Home.Coach","Home.Assistant","Away.Coach","Away.Assistant","Phase","Season","CT.Broadcast","Home.Team.Halftime.Goals","Away.Team.Halftime.Goals","Home.Team.7m.Goals","Away.Team.7m.Goals"
+1,"M.A.T. Plzen","A.S.A. Lovosice",33,25,"9.5.2015",1265,"Jirí Opava, Pavel Válek","Martin Šetlík","Stanislav Raizl","Vladimír Šuma","Pavel Haken","FinalsMatch","2014/2015",1,17,12,2,2
+2,"M.A.T. Plzen","A.S.A. Lovosice",26,18,"10.5.2015",1348,"Marek Becicka, Jirí Horák","Martin Šetlík","Stanislav Raizl","Vladimír Šuma","Pavel Haken","FinalsMatch","2014/2015",1,16,9,3,5
+3,"A.S.A. Lovosice","M.A.T. Plzen",21,22,"16.5.2015",950,"Václav Horácek, Jirí Novotný","Vladimír Šuma","Pavel Haken","Martin Šetlík","Stanislav Raizl","FinalsMatch","2014/2015",1,12,10,5,3
+4,"KP Brno","Baník OKD Karviná",32,31,"9.5.2015",318,"Milan Hájek, Karel Macho","Andrej Titkov","Pavel Cejka","Jaroslav Hudecek","Radek Gumolka","3rdPlaceMatch","2014/2015",0,13,15,4,2
+5,"KP Brno","Baník OKD Karviná",25,26,"10.5.2015",371,"Michal Nezbeda, Václav Zelenka","Andrej Titkov","Pavel Cejka","Jaroslav Hudecek","Jan Dudek","3rdPlaceMatch","2014/2015",0,9,12,2,2
+6,"Baník OKD Karviná","KP Brno",30,33,"16.5.2015",515,"Ludek Tocík, Martin Zych","Jaroslav Hudecek","Radek Gumolka","Andrej Titkov","Pavel Cejka","3rdPlaceMatch","2014/2015",0,13,15,4,2
+7,"Baník OKD Karviná","KP Brno",27,32,"17.5.2015",615,"Václav Horácek, Jirí Novotný","Jaroslav Hudecek","Radek Gumolka","Andrej Titkov","Pavel Cejka","3rdPlaceMatch","2014/2015",1,13,15,6,3
+8,"Dukla Praha","Gumárny Zubrí",26,25,"8.5.2015",125,"Michal Hanák, Luboš Pavlícek","Jan Josef","Jirí Kotrc","Jirí Kekrt","Ivo Tovaryš","5thPlaceMatch","2014/2015",0,14,12,1,5
+9,"Gumárny Zubrí","Dukla Praha",31,23,"16.5.2015",450,"Marek Becicka, Jirí Horák","Jirí Kekrt","Ivo Tovaryš","Jan Josef","Jirí Kotrc","5thPlaceMatch","2014/2015",0,15,11,3,2
+10,"SKP Frýdek-Místek","Cement Hranice",30,29,"8.5.2015",156,"Bohumil Bruna, Petr Halada","Aleš Chrastina","Petr Mazur","Libor Hrabal","Karel Magrla","7thPlaceMatch","2014/2015",0,16,14,1,0
+11,"Cement Hranice","SKP Frýdek-Místek",35,27,"15.5.2015",253,"Tomáš Bubenícek, Jan Kosmák","Libor Hrabal","Martin Potiška","Aleš Chrastina","Petr Mazur","7thPlaceMatch","2014/2015",0,20,11,3,1
+12,"KP Brno","A.S.A. Lovosice",24,20,"11.4.2015",751,"Milan Hájek, Karel Macho","Andrej Titkov","Pavel Cejka","Vladimír Šuma","Pavel Haken","SemifinalsMatch","2014/2015",1,12,12,2,1
+13,"M.A.T. Plzen","Baník OKD Karviná",27,23,"11.4.2015",1130,"Ludek Tocík, Martin Zych","Martin Šetlík","Stanislav Raizl","Jaroslav Hudecek","Radek Gumolka","SemifinalsMatch","2014/2015",0,16,12,2,2
+14,"M.A.T. Plzen","Baník OKD Karviná",35,17,"12.4.2015",910,"Marek Becicka, Jirí Horák","Martin Šetlík","Stanislav Raizl","Jaroslav Hudecek","Radek Gumolka","SemifinalsMatch","2014/2015",1,18,13,1,2
+15,"KP Brno","A.S.A. Lovosice",30,28,"12.4.2015",825,"Radoslav Kavulic, Libor Skružný","Andrej Titkov","Pavel Cejka","Vladimír Šuma","Pavel Haken","SemifinalsMatch","2014/2015",0,15,16,1,1
+16,"A.S.A. Lovosice","KP Brno",27,24,"18.4.2015",570,"Jirí Opava, Pavel Válek","Vladimír Šuma","Pavel Haken","Andrej Titkov","Jan Pokorný","SemifinalsMatch","2014/2015",1,16,14,5,3
+17,"Baník OKD Karviná","M.A.T. Plzen",24,32,"18.4.2015",1017,"Václav Horácek, Jirí Novotný","Jaroslav Hudecek","Radek Gumolka","Martin Šetlík","Stanislav Raizl","SemifinalsMatch","2014/2015",0,10,15,0,2
+18,"A.S.A. Lovosice","KP Brno",26,20,"19.4.2015",950,"Václav Horácek, Jirí Novotný","Vladimír Šuma","Pavel Haken","Andrej Titkov","Pavel Cejka","SemifinalsMatch","2014/2015",0,14,10,0,3
+19,"KP Brno","A.S.A. Lovosice",22,23,"22.4.2015",1120,"Jirí Opava, Pavel Válek","Andrej Titkov","Pavel Cejka","Vladimír Šuma","Pavel Haken","SemifinalsMatch","2014/2015",0,12,11,3,2
+20,"Cement Hranice","Dukla Praha",24,26,"11.4.2015",185,"Bohumil Bruna, Petr Halada","Libor Hrabal","Martin Potiška","Jan Josef","Daniel Curda","5till8placeMatch","2014/2015",0,12,14,4,4
+21,"SKP Frýdek-Místek","Gumárny Zubrí",30,26,"12.4.2015",465,"Michal Nezbeda, Václav Zelenka","Aleš Chrastina","Petr Mazur","Jirí Kekrt","Ivo Tovaryš","5till8placeMatch","2014/2015",0,17,16,4,1
+22,"Dukla Praha","Cement Hranice",33,25,"18.4.2015",145,"Michal Nezbeda, Václav Zelenka","Jan Josef","Jirí Kotrc","Libor Hrabal","Radim Brož","5till8placeMatch","2014/2015",0,18,9,4,4
+23,"Gumárny Zubrí","SKP Frýdek-Místek",28,19,"18.4.2015",650,"Michal Hanák, Luboš Pavlícek","Jirí Kekrt","Ivo Tovaryš","Aleš Chrastina","Petr Mazur","5till8placeMatch","2014/2015",0,14,12,1,3
+24,"Gumárny Zubrí","Baník OKD Karviná",27,28,"28.3.2015",1250,"Lukáš Frieser, Dalibor Pavlát","Jirí Kekrt","Ivo Tovaryš","Jaroslav Hudecek","Radek Gumolka","QuarterfinalsMatch","2014/2015",0,14,8,5,1
+25,"Cement Hranice","KP Brno",25,27,"28.3.2015",310,"Milan Hájek, Karel Macho","Libor Hrabal","Martin Schober","Andrej Titkov","Jan Pokorný","QuarterfinalsMatch","2014/2015",0,12,13,0,4
+26,"Dukla Praha","A.S.A. Lovosice",22,24,"28.3.2015",325,"Ludek Tocík, Martin Zych","Jan Josef","Jirí Kotrc","Vladimír Šuma","Pavel Haken","QuarterfinalsMatch","2014/2015",0,12,11,4,2
+27,"M.A.T. Plzen","SKP Frýdek-Místek",27,23,"28.3.2015",938,"Marek Becicka, Jirí Horák","Martin Šetlík","Stanislav Raizl","Aleš Chrastina","Petr Mazur","QuarterfinalsMatch","2014/2015",0,16,14,4,5
+28,"Cement Hranice","KP Brno",26,27,"29.3.2015",390,"Radoslav Kavulic, Libor Skružný","Libor Hrabal","Martin Schober","Andrej Titkov","Jan Pokorný","QuarterfinalsMatch","2014/2015",0,15,10,1,6
+29,"Gumárny Zubrí","Baník OKD Karviná",25,30,"29.3.2015",1100,"Václav Horácek, Jirí Novotný","Jirí Kekrt","Ivo Tovaryš","Jaroslav Hudecek","Radek Gumolka","QuarterfinalsMatch","2014/2015",1,14,16,4,0
+30,"Dukla Praha","A.S.A. Lovosice",24,25,"29.3.2015",390,"Jirí Opava, Pavel Válek","Jan Josef","Jirí Kotrc","Vladimír Šuma","Pavel Haken","QuarterfinalsMatch","2014/2015",0,13,14,2,2
+31,"M.A.T. Plzen","SKP Frýdek-Místek",25,26,"29.3.2015",320,"Lukáš Frieser, Dalibor Pavlát","Martin Šetlík","Stanislav Raizl","Aleš Chrastina","Petr Mazur","QuarterfinalsMatch","2014/2015",0,14,12,2,2
+32,"A.S.A. Lovosice","Dukla Praha",26,25,"4.4.2015",758,"Václav Horácek, Jirí Novotný","Vladimír Šuma","Pavel Haken","Jan Josef","Daniel Curda","QuarterfinalsMatch","2014/2015",1,14,16,5,1
+33,"Baník OKD Karviná","Gumárny Zubrí",31,29,"4.4.2015",1250,"Ludek Tocík, Martin Zych","Jaroslav Hudecek","Radek Gumolka","Jirí Kekrt","Ivo Tovaryš","QuarterfinalsMatch","2014/2015",0,16,14,2,2
+34,"SKP Frýdek-Místek","M.A.T. Plzen",18,19,"4.4.2015",523,"Michal Hanák, Luboš Pavlícek","Aleš Chrastina","Petr Mazur","Martin Šetlík","Stanislav Raizl","QuarterfinalsMatch","2014/2015",0,9,7,3,3
+35,"KP Brno","Cement Hranice",29,24,"4.4.2015",980,"Jirí Opava, Pavel Válek","Andrej Titkov","Jan Pokorný","Libor Hrabal","Karel Magrla","QuarterfinalsMatch","2014/2015",0,14,8,1,1
+36,"SKP Frýdek-Místek","M.A.T. Plzen",15,23,"5.4.2015",475,"Václav Horácek, Jirí Novotný","Aleš Chrastina","Petr Mazur","Martin Šetlík","Stanislav Raizl","QuarterfinalsMatch","2014/2015",1,9,10,2,3
+37,"HC Zlín","Ronal Jicín",22,30,"19.4.2015",201,"Premysl Fukala, Radek Mohyla","Jirí Micola","Petr Novák","Aleš Babák","Petr Kyncl","9till12placeMatch","2014/2015",0,13,15,4,4
+38,"Ronal Jicín","HC Zlín",27,23,"25.4.2015",325,"Pavel Blanar, Michael Haramul","Aleš Babák","Petr Kyncl","Jirí Micola","Petr Novák","9till12placeMatch","2014/2015",0,17,10,3,1
+39,"Tatran Litovel","Sokol Prerov",41,19,"18.4.2015",408,"Tomáš Bubenícek, Jan Kosmák","Lubomír Krejcír","Jirí Macek","Jirí Kopecký","Richard Bucek","9till12placeMatch","2014/2015",0,26,8,1,2
+40,"Tatran Litovel","Sokol Prerov",32,26,"19.4.2015",353,"Bohumil Bruna, Petr Halada","Lubomír Krejcír","Jirí Macek","Jirí Kopecký","Richard Bucek","9till12placeMatch","2014/2015",0,15,10,2,5
+41,"Sokol Prerov","Tatran Litovel",18,36,"9.5.2015",383,"Václav Horácek, Milan Letev","Jirí Kopecký","Richard Bucek","Lubomír Krejcír","Jirí Macek","9till12placeMatch","2014/2015",0,10,17,1,5
+42,"HC Zlín","Tatran Litovel",23,22,"28.3.2015",333,"Bohumil Bruna, Petr Halada","Jirí Micola","Petr Novák","Lubomír Krejcír","Jirí Macek","9till12placeMatch","2014/2015",0,16,9,4,3
+43,"Ronal Jicín","Sokol Prerov",42,22,"28.3.2015",360,"Michal Hanák, Luboš Pavlícek","Aleš Babák","Petr Kyncl","Jirí Kopecký","Richard Bucek","9till12placeMatch","2014/2015",0,20,11,2,2
+44,"Ronal Jicín","Sokol Prerov",34,22,"29.3.2015",290,"Martin Kosa, Pavel Švidernoch","Aleš Babák","Petr Kyncl","Jirí Kopecký","Richard Bucek","9till12placeMatch","2014/2015",0,18,8,2,2
+45,"HC Zlín","Tatran Litovel",23,22,"29.3.2015",328,"Marek Becicka, Jirí Horák","Jirí Micola","Petr Novák","Lubomír Krejcír","Jirí Macek","9till12placeMatch","2014/2015",0,12,13,3,5
+46,"Sokol Prerov","Ronal Jicín",19,40,"2.4.2015",30,"Tomáš Bubenícek, Jan Kosmák","Jirí Kopecký","Richard Bucek","Aleš Babák","Petr Kyncl","9till12placeMatch","2014/2015",0,7,21,1,4
+47,"Tatran Litovel","HC Zlín",29,25,"4.4.2015",449,"Radoslav Kavulic, Libor Skružný","Lubomír Krejcír","Jirí Macek","Jirí Micola","Petr Novák","9till12placeMatch","2014/2015",0,15,16,1,2
+48,"Tatran Litovel","HC Zlín",21,22,"5.4.2015",432,"Tomáš Bubenícek, Jan Kosmák","Lubomír Krejcír","Jirí Macek","Jirí Micola","Petr Novák","9till12placeMatch","2014/2015",0,11,14,1,1
+49,"Gumárny Zubrí","Dukla Praha",30,27,"14.3.2015",1250,"Milan Hájek, Karel Macho","Jirí Kekrt","Ivo Tovaryš","Jan Josef","Daniel Curda","RegularPhaseMatch","2014/2015",0,12,14,3,5
+50,"A.S.A. Lovosice","Sokol Prerov",40,20,"14.3.2015",576,"Pavel Blanar, Michael Haramul","Vladimír Šuma","Pavel Haken",,"Richard Bucek","RegularPhaseMatch","2014/2015",0,18,11,1,2
+51,"M.A.T. Plzen","SKP Frýdek-Místek",25,19,"14.3.2015",760,"Ludek Tocík, Martin Zych","Martin Šetlík","Stanislav Raizl","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,14,14,1,4
+52,"Baník OKD Karviná","Ronal Jicín",32,18,"14.3.2015",1017,"Jirí Opava, Pavel Válek","Jaroslav Hudecek","Radek Gumolka","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,17,7,2,1
+53,"Tatran Litovel","HC Zlín",28,24,"14.3.2015",432,"Michal Nezbeda, Václav Zelenka","Lubomír Krejcír","Jirí Macek","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,11,10,2,2
+54,"Cement Hranice","KP Brno",30,28,"15.3.2015",420,"Michal Hanák, Luboš Pavlícek","Libor Hrabal","Martin Schober","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",1,15,16,1,3
+55,"SKP Frýdek-Místek","A.S.A. Lovosice",28,27,"6.3.2015",492,"Václav Horácek, Jirí Novotný","Aleš Chrastina","Petr Mazur","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,13,11,3,2
+56,"Ronal Jicín","M.A.T. Plzen",23,24,"7.3.2015",780,"Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,11,10,2,1
+57,"Sokol Prerov","Cement Hranice",26,37,"7.3.2015",185,"Bohumil Bruna, Petr Halada","Jirí Kopecký","Richard Bucek","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,10,18,0,4
+58,"Dukla Praha","Baník OKD Karviná",36,31,"7.3.2015",180,"Michal Nezbeda, Václav Zelenka","Jan Josef","Jirí Kotrc","Jaroslav Hudecek","Petr Raszyk","RegularPhaseMatch","2014/2015",0,20,12,6,2
+59,"KP Brno","Tatran Litovel",30,26,"7.3.2015",613,"Milan Hájek, Karel Macho","Andrej Titkov","Jan Pokorný","Kvetoslav Kuba","Jirí Macek","RegularPhaseMatch","2014/2015",0,17,17,5,0
+60,"HC Zlín","Gumárny Zubrí",27,36,"7.3.2015",120,"Marek Becicka, Jirí Horák","Jirí Micola","Petr Novák","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,11,16,3,4
+61,"Baník OKD Karviná","HC Zlín",38,14,"27.2.2015",420,"Tomáš Bubenícek, Jan Kosmák","Jaroslav Hudecek","Petr Raszyk","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,22,5,0,1
+62,"Tatran Litovel","Sokol Prerov",37,21,"28.2.2015",493,"Martin Kosa, Pavel Švidernoch","Lubomír Krejcír","Jirí Macek","Jirí Kopecký","Richard Bucek","RegularPhaseMatch","2014/2015",0,17,13,4,4
+63,"Gumárny Zubrí","KP Brno",36,36,"28.2.2015",1150,"Jirí Králícek, Milan Letev","Jirí Kekrt","Ivo Tovaryš","Andrej Titkov","Jan Pokorný","RegularPhaseMatch","2014/2015",0,15,17,0,2
+64,"Ronal Jicín","Dukla Praha",24,23,"1.3.2015",680,"Marek Becicka, Jirí Horák","Aleš Babák","Petr Kyncl","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2014/2015",1,16,12,1,3
+65,"Cement Hranice","SKP Frýdek-Místek",38,29,"1.3.2015",315,"Lukáš Frieser, Radoslav Kavulic","Libor Hrabal","Martin Schober","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,21,16,1,1
+66,"M.A.T. Plzen","A.S.A. Lovosice",35,25,"1.3.2015",1180,"Jirí Opava, Pavel Válek","Martin Šetlík","Jirí Hynek","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,15,15,0,3
+67,"Dukla Praha","M.A.T. Plzen",29,29,"18.2.2015",275,"Lukáš Frieser, Dalibor Pavlát","Jan Josef","Jirí Kotrc","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,15,15,1,2
+68,"Sokol Prerov","Gumárny Zubrí",24,39,"20.2.2015",195,"Jirí Kaufman, Filip Procházka","Jirí Kopecký","Richard Bucek","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,8,21,4,2
+69,"Cement Hranice","A.S.A. Lovosice",19,17,"21.2.2015",240,"Ludek Tocík, Martin Zych","Libor Hrabal","Martin Schober","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,10,11,3,1
+70,"KP Brno","Baník OKD Karviná",27,27,"21.2.2015",630,"Michal Nezbeda, Václav Zelenka","Andrej Titkov","Jan Pokorný","Jaroslav Hudecek","Petr Raszyk","RegularPhaseMatch","2014/2015",0,13,13,4,3
+71,"HC Zlín","Ronal Jicín",28,25,"22.2.2015",320,"Radoslav Kavulic, Libor Skružný","Jirí Micola","Petr Novák","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,15,13,3,2
+72,"SKP Frýdek-Místek","Tatran Litovel",34,22,"22.2.2015",483,"Michal Hanák, Luboš Pavlícek","Aleš Chrastina","Petr Mazur","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,15,10,3,1
+73,"Dukla Praha","HC Zlín",35,22,"11.2.2015",275,"Michal Nezbeda, Václav Zelenka","Jan Josef","Jirí Kotrc","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,18,9,4,4
+74,"Tatran Litovel","A.S.A. Lovosice",24,35,"14.2.2015",368,"Bohumil Bruna, Petr Halada","Lubomír Krejcír","Jirí Macek","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,10,19,2,3
+75,"Ronal Jicín","KP Brno",27,18,"14.2.2015",615,"Radoslav Kavulic, Libor Skružný","Aleš Babák","Petr Kyncl","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",0,13,8,1,1
+76,"Gumárny Zubrí","SKP Frýdek-Místek",29,23,"14.2.2015",950,"Michal Nezbeda, Václav Zelenka","Jirí Kekrt","Ivo Tovaryš","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,13,9,6,2
+77,"M.A.T. Plzen","Cement Hranice",30,19,"15.2.2015",892,"Václav Horácek, Jirí Novotný","Martin Šetlík","Stanislav Raizl","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",1,15,10,5,5
+78,"Baník OKD Karviná","Sokol Prerov",36,24,"15.2.2015",496,"Premysl Fukala, Radek Mohyla","Jaroslav Hudecek","Petr Raszyk","Jirí Kopecký","Richard Bucek","RegularPhaseMatch","2014/2015",0,20,11,3,4
+79,"A.S.A. Lovosice","Gumárny Zubrí",29,28,"7.2.2015",654,"Milan Hájek, Karel Macho","Vladimír Šuma","Pavel Haken","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,13,13,3,4
+80,"KP Brno","Dukla Praha",25,25,"7.2.2015",680,"Michal Hanák, Luboš Pavlícek","Andrej Titkov","Jan Pokorný","Jan Josef","Jirí Kotrc","RegularPhaseMatch","2014/2015",0,13,10,1,1
+81,"HC Zlín","M.A.T. Plzen",23,32,"7.2.2015",420,"Bohumil Bruna, Petr Halada","Jirí Micola","Petr Novák","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,10,18,0,5
+82,"Cement Hranice","Tatran Litovel",32,28,"8.2.2015",310,"Tomáš Bubenícek, Jan Kosmák","Martin Schober","Martin Potiška","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,16,17,5,0
+83,"Sokol Prerov","Ronal Jicín",19,39,"8.2.2015",93,"Jirí Králícek, Milan Letev","Jirí Kopecký","Richard Bucek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,9,20,3,3
+84,"SKP Frýdek-Místek","Baník OKD Karviná",36,27,"8.2.2015",503,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Jaroslav Hudecek","Roman Farár","RegularPhaseMatch","2014/2015",0,17,14,3,2
+85,"Baník OKD Karviná","A.S.A. Lovosice",25,24,"18.12.2014",420,"Václav Horácek, Jirí Novotný",,"Radek Gumolka","Vladimír Šuma","Václav Bruža","RegularPhaseMatch","2014/2015",0,11,14,0,3
+86,"Ronal Jicín","SKP Frýdek-Místek",22,21,"19.12.2014",460,"Lukáš Frieser, Dalibor Pavlát","Aleš Babák","Petr Kyncl","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,12,12,0,1
+87,"HC Zlín","KP Brno",32,31,"20.12.2014",750,"Michal Hanák, Luboš Pavlícek","Jirí Micola","Petr Novák","Andrej Titkov","Jan Pokorný","RegularPhaseMatch","2014/2015",0,17,14,1,5
+88,"Dukla Praha","Sokol Prerov",43,16,"20.12.2014",264,"Ludek Tocík, Martin Zych","Jirí Kotrc","Jan Josef","Richard Bucek","Richard Bucek","RegularPhaseMatch","2014/2015",0,18,10,1,2
+89,"Gumárny Zubrí","Cement Hranice",30,23,"20.12.2014",1200,"Marek Becicka, Jirí Horák","Jirí Kekrt","Ivo Tovaryš","Libor Hrabal","Martin Potiška","RegularPhaseMatch","2014/2015",0,18,11,6,1
+90,"M.A.T. Plzen","Tatran Litovel",29,22,"21.12.2014",1240,"Tomáš Bubenícek, Jan Kosmák","Martin Šetlík","Stanislav Raizl","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,15,9,2,3
+91,"Sokol Prerov","HC Zlín",27,36,"12.12.2014",118,"Tomáš Bubenícek, Jan Kosmák",,"Richard Bucek","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,14,15,3,2
+92,"A.S.A. Lovosice","Ronal Jicín",26,24,"13.12.2014",750,"Jirí Králícek, Milan Letev","Vladimír Šuma","Pavel Haken","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,14,12,3,1
+93,"KP Brno","M.A.T. Plzen",26,25,"13.12.2014",550,"Bohumil Bruna, Petr Halada","Andrej Titkov","Jan Pokorný","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,13,14,6,2
+94,"Tatran Litovel","Gumárny Zubrí",31,23,"13.12.2014",450,"Michal Hanák, Luboš Pavlícek","Lubomír Krejcír","Jirí Macek","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,17,11,3,7
+95,"Cement Hranice","Baník OKD Karviná",34,26,"14.12.2014",310,"Milan Hájek, Karel Macho","Libor Hrabal","Martin Schober","Jaroslav Hudecek","Radek Gumolka","RegularPhaseMatch","2014/2015",0,16,15,4,2
+96,"SKP Frýdek-Místek","Dukla Praha",25,32,"14.12.2014",512,"Václav Horácek, Jirí Novotný","Aleš Chrastina","Petr Mazur","Jirí Kotrc","Jirí Neumann","RegularPhaseMatch","2014/2015",0,10,15,1,2
+97,"Dukla Praha","A.S.A. Lovosice",22,25,"6.12.2014",280,"Marek Becicka, Jirí Horák","Jirí Kotrc","Jan Josef","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,12,11,2,3
+98,"KP Brno","Sokol Prerov",41,22,"6.12.2014",215,"Lukáš Frieser, Dalibor Pavlát","Andrej Titkov","Gabriela Topinková",,"Richard Bucek","RegularPhaseMatch","2014/2015",0,20,7,4,2
+99,"Ronal Jicín","Cement Hranice",24,16,"6.12.2014",640,"Tomáš Bubenícek, Jan Kosmák","Aleš Babák","Petr Kyncl","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,14,9,6,1
+100,"Baník OKD Karviná","Tatran Litovel",31,24,"6.12.2014",425,"Michal Nezbeda, Václav Zelenka",,"Radek Gumolka","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,15,13,5,3
+101,"M.A.T. Plzen","Gumárny Zubrí",38,32,"7.12.2014",1620,"Ludek Tocík, Martin Zych","Martin Šetlík","Stanislav Raizl","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,19,14,7,5
+102,"HC Zlín","SKP Frýdek-Místek",34,30,"7.12.2014",750,"Bohumil Bruna, Petr Halada","Jirí Micola","Petr Novák","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,14,15,3,2
+103,"A.S.A. Lovosice","HC Zlín",34,27,"29.11.2014",450,"Milan Hájek, Karel Macho","Vladimír Šuma","Pavel Haken","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,17,17,1,2
+104,"Tatran Litovel","Ronal Jicín",20,27,"29.11.2014",480,"Michal Hanák, Luboš Pavlícek","Lubomír Krejcír","Jirí Macek","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,7,14,2,2
+105,"Gumárny Zubrí","Baník OKD Karviná",35,27,"29.11.2014",1250,"Lukáš Frieser, Dalibor Pavlát","Jirí Kekrt","Ivo Tovaryš",,"Radek Gumolka","RegularPhaseMatch","2014/2015",0,20,14,2,0
+106,"Sokol Prerov","M.A.T. Plzen",19,30,"30.11.2014",47,"Martin Kosa, Pavel Švidernoch",,"Richard Bucek","Martin Šetlík","Zuzana Strýcová","RegularPhaseMatch","2014/2015",0,8,17,1,4
+107,"SKP Frýdek-Místek","KP Brno",25,23,"30.11.2014",492,"Ludek Tocík, Martin Zych","Aleš Chrastina","Petr Mazur","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",0,12,7,3,3
+108,"Cement Hranice","Dukla Praha",26,21,"3.12.2014",210,"Václav Horácek, Jirí Novotný","Libor Hrabal","Martin Schober","Jirí Kotrc","Jan Josef","RegularPhaseMatch","2014/2015",0,14,9,3,1
+109,"Ronal Jicín","Gumárny Zubrí",25,30,"22.11.2014",610,"Václav Horácek, Jirí Novotný","Aleš Babák","Petr Kyncl","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,12,15,3,0
+110,"Sokol Prerov","SKP Frýdek-Místek",30,38,"23.11.2014",73,"Marek Becicka, Jirí Horák",,"Richard Bucek","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,18,17,0,1
+111,"M.A.T. Plzen","Baník OKD Karviná",27,17,"23.11.2014",920,"Jirí Opava, Pavel Válek","Martin Šetlík","Stanislav Raizl","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2014/2015",0,12,11,4,2
+112,"HC Zlín","Cement Hranice",23,32,"23.11.2014",800,"Radoslav Kavulic, Libor Skružný","Jirí Micola","Petr Novák","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,14,16,1,1
+113,"Dukla Praha","Tatran Litovel",35,26,"26.11.2014",115,"Bohumil Bruna, Petr Halada","Jirí Kotrc","Jan Josef","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,18,13,3,3
+114,"KP Brno","A.S.A. Lovosice",31,27,"26.11.2014",217,"Michal Nezbeda, Václav Zelenka","Andrej Titkov","Jan Pokorný","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,15,12,4,2
+115,"Dukla Praha","Gumárny Zubrí",31,24,"15.11.2014",360,"Milan Hájek, Karel Macho","Jirí Kotrc","Jan Josef","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,17,9,2,4
+116,"Ronal Jicín","Baník OKD Karviná",26,25,"15.11.2014",682,"Michal Nezbeda, Václav Zelenka","Aleš Babák","Petr Kyncl","Marek Michalisko","Petr Raszyk","RegularPhaseMatch","2014/2015",0,13,13,3,4
+117,"Sokol Prerov","A.S.A. Lovosice",24,39,"16.11.2014",57,"Michal Hanák, Luboš Pavlícek",,"Richard Bucek","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,12,21,0,0
+118,"KP Brno","Cement Hranice",26,26,"16.11.2014",315,"Lukáš Frieser, Dalibor Pavlát","Andrej Titkov","Jan Pokorný","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",1,15,17,2,2
+119,"HC Zlín","Tatran Litovel",28,20,"16.11.2014",850,"Ludek Tocík, Martin Zych","Jirí Micola","Petr Novák","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,14,10,3,3
+120,"SKP Frýdek-Místek","M.A.T. Plzen",26,21,"16.11.2014",515,"Marek Becicka, Jirí Horák","Aleš Chrastina","Petr Mazur","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,11,11,7,3
+121,"A.S.A. Lovosice","SKP Frýdek-Místek",33,31,"8.11.2014",575,"Michal Nezbeda, Václav Zelenka","Vladimír Šuma","Pavel Haken","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,17,15,3,2
+122,"Tatran Litovel","KP Brno",24,29,"8.11.2014",449,"Jirí Králícek, Milan Letev","Lubomír Krejcír","Jirí Macek","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",0,9,15,2,1
+123,"Gumárny Zubrí","HC Zlín",35,29,"8.11.2014",850,"Tomáš Bubenícek, Jan Kosmák","Jirí Kekrt","Ivo Tovaryš","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,19,14,4,2
+124,"Cement Hranice","Sokol Prerov",35,15,"9.11.2014",265,"Bohumil Bruna, Petr Halada","Libor Hrabal","Martin Schober",,"Richard Bucek","RegularPhaseMatch","2014/2015",0,17,7,0,0
+125,"M.A.T. Plzen","Ronal Jicín",31,18,"9.11.2014",850,"Michal Hanák, Luboš Pavlícek","Martin Šetlík","Stanislav Raizl","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,17,6,3,2
+126,"Baník OKD Karviná","Dukla Praha",33,35,"9.11.2014",750,"Lukáš Frieser, Dalibor Pavlát","Marek Michalisko","Radek Gumolka","Jirí Kotrc","Jan Josef","RegularPhaseMatch","2014/2015",0,17,18,4,2
+127,"SKP Frýdek-Místek","Cement Hranice",33,17,"5.11.2014",483,"Jirí Králícek, Milan Letev","Aleš Chrastina","Petr Mazur","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,20,8,4,0
+128,"A.S.A. Lovosice","M.A.T. Plzen",31,27,"5.11.2014",675,"Ludek Tocík, Martin Zych","Vladimír Šuma","Pavel Haken","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,13,13,5,3
+129,"Sokol Prerov","Tatran Litovel",25,35,"5.11.2014",183,"Tomáš Bubenícek, Jan Kosmák",,"Richard Bucek","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,9,19,2,3
+130,"Dukla Praha","Ronal Jicín",26,19,"5.11.2014",210,"Radoslav Kavulic, Libor Skružný","Jirí Kotrc","Jan Josef","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,14,7,0,1
+131,"KP Brno","Gumárny Zubrí",28,27,"5.11.2014",480,"Jirí Opava, Pavel Válek","Andrej Titkov","Jan Pokorný","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,14,15,6,6
+132,"HC Zlín","Baník OKD Karviná",24,33,"12.11.2014",350,"Václav Horácek, Jirí Novotný","Jirí Micola","Petr Novák","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2014/2015",0,13,15,1,3
+133,"A.S.A. Lovosice","Cement Hranice",28,28,"24.10.2014",250,"Radoslav Kavulic, Libor Skružný","Vladimír Šuma","Pavel Haken","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,17,13,2,1
+134,"Tatran Litovel","SKP Frýdek-Místek",25,32,"25.10.2014",446,"Tomáš Bubenícek, Jan Kosmák","Lubomír Krejcír","Jirí Macek","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,9,14,2,5
+135,"Ronal Jicín","HC Zlín",19,18,"25.10.2014",540,"Milan Hájek, Karel Macho","Aleš Babák","Petr Kyncl","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,10,9,3,3
+136,"Gumárny Zubrí","Sokol Prerov",43,26,"25.10.2014",900,"Bohumil Bruna, Petr Halada","Jirí Kekrt","Ivo Tovaryš",,"Richard Bucek","RegularPhaseMatch","2014/2015",0,21,12,2,0
+137,"M.A.T. Plzen","Dukla Praha",30,22,"26.10.2014",1160,"Jirí Opava, Pavel Válek",,,,,"RegularPhaseMatch","2014/2015",1,15,13,0,2
+138,"Baník OKD Karviná","KP Brno",31,28,"26.10.2014",670,"Marek Becicka, Jirí Horák","Marek Michalisko","Radek Gumolka","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",0,17,14,0,2
+139,"Cement Hranice","M.A.T. Plzen",16,23,"15.10.2014",195,"Václav Horácek, Jirí Novotný","Libor Hrabal","Martin Schober","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,9,12,2,1
+140,"A.S.A. Lovosice","Tatran Litovel",23,24,"18.10.2014",250,"Milan Hájek, Karel Macho","Vladimír Šuma","Pavel Haken","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,13,17,5,2
+141,"KP Brno","Ronal Jicín",30,24,"18.10.2014",321,"Lukáš Frieser, Dalibor Pavlát","Andrej Titkov","Jan Pokorný","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,18,14,5,3
+142,"SKP Frýdek-Místek","Gumárny Zubrí",27,31,"19.10.2014",518,"Michal Hanák, Luboš Pavlícek","Aleš Chrastina","Petr Mazur","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",1,12,18,4,5
+143,"Sokol Prerov","Baník OKD Karviná",26,33,"19.10.2014",73,"Tomáš Bubenícek, Jan Kosmák","Kamil Zemánek","Richard Bucek","Marek Michalisko","Roman Farár","RegularPhaseMatch","2014/2015",0,12,13,0,1
+144,"HC Zlín","Dukla Praha",20,31,"19.10.2014",850,"Michal Nezbeda, Václav Zelenka","Jirí Micola","Petr Novák","Jirí Kotrc","Jan Josef","RegularPhaseMatch","2014/2015",0,10,14,4,4
+145,"M.A.T. Plzen","HC Zlín",35,20,"7.10.2014",400,"Ludek Tocík, Martin Zych","Martin Šetlík","Stanislav Raizl","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,18,8,4,2
+146,"Baník OKD Karviná","SKP Frýdek-Místek",28,27,"9.10.2014",560,"Jirí Králícek, Milan Letev","Marek Michalisko","Radek Gumolka","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,15,16,3,4
+147,"Dukla Praha","KP Brno",28,29,"11.10.2014",165,"Jirí Opava, Pavel Válek","Jirí Kotrc","Jan Josef","Andrej Titkov","Jan Pokorný","RegularPhaseMatch","2014/2015",0,14,12,2,7
+148,"Tatran Litovel","Cement Hranice",23,29,"11.10.2014",545,"Michal Nezbeda, Václav Zelenka","Lubomír Krejcír","Jirí Macek","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,12,14,3,5
+149,"Ronal Jicín","Sokol Prerov",30,15,"11.10.2014",540,"Bohumil Bruna, Petr Halada","Aleš Babák","Petr Kyncl","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2014/2015",0,13,5,3,3
+150,"Gumárny Zubrí","A.S.A. Lovosice",36,21,"11.10.2014",900,"Marek Becicka, Jirí Horák","Jirí Kekrt","Ivo Tovaryš","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,22,11,3,1
+151,"KP Brno","HC Zlín",27,26,"4.10.2014",210,"Milan Hájek, Karel Macho","Andrej Titkov","Jan Pokorný","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,16,14,4,3
+152,"Tatran Litovel","M.A.T. Plzen",19,25,"4.10.2014",498,"Lukáš Frieser, Dalibor Pavlát","Lubomír Krejcír","Jirí Macek","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,9,12,1,2
+153,"A.S.A. Lovosice","Baník OKD Karviná",35,33,"5.10.2014",300,"Michal Nezbeda, Václav Zelenka","Vladimír Šuma","Pavel Haken","Marek Michalisko","Petr Raszyk","RegularPhaseMatch","2014/2015",1,18,17,2,1
+154,"Sokol Prerov","Dukla Praha",25,29,"5.10.2014",73,"Jirí Králícek, Milan Letev","Kamil Zemánek","Richard Bucek","Jirí Kotrc","Jakub Sviták","RegularPhaseMatch","2014/2015",0,12,15,3,3
+155,"Cement Hranice","Gumárny Zubrí",27,35,"5.10.2014",440,"Václav Horácek, Jirí Novotný","Libor Hrabal","Martin Schober","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,10,18,2,1
+156,"SKP Frýdek-Místek","Ronal Jicín",23,17,"5.10.2014",492,"Ludek Tocík, Martin Zych","Aleš Chrastina","Petr Mazur","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,11,10,2,2
+157,"Dukla Praha","SKP Frýdek-Místek",20,20,"27.9.2014",145,"Radoslav Kavulic, Libor Skružný","Jirí Kotrc","Jan Josef","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,11,9,3,2
+158,"Ronal Jicín","A.S.A. Lovosice",19,18,"27.9.2014",500,"Jirí Opava, Pavel Válek","Aleš Babák","Petr Kyncl","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,7,11,1,3
+159,"Gumárny Zubrí","Tatran Litovel",35,20,"27.9.2014",850,"Michal Hanák, Luboš Pavlícek","Jirí Kekrt","Ivo Tovaryš","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,16,8,1,2
+160,"Baník OKD Karviná","Cement Hranice",31,29,"27.9.2014",610,"Ludek Tocík, Martin Zych","Marek Michalisko","Radek Gumolka","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,17,16,4,0
+161,"M.A.T. Plzen","KP Brno",23,20,"28.9.2014",510,"Bohumil Bruna, Petr Halada","Martin Šetlík","Stanislav Raizl","Andrej Titkov","Zdenek Zima","RegularPhaseMatch","2014/2015",0,12,10,1,4
+162,"HC Zlín","Sokol Prerov",39,22,"28.9.2014",200,"Marek Becicka, Jirí Horák","Jirí Micola","Petr Novák","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2014/2015",0,20,10,1,3
+163,"A.S.A. Lovosice","Dukla Praha",27,28,"20.9.2014",500,"Václav Horácek, Jirí Novotný","Vladimír Šuma","Pavel Haken","Jirí Kotrc","Tomáš Petržala","RegularPhaseMatch","2014/2015",0,15,11,2,2
+164,"Tatran Litovel","Baník OKD Karviná",27,27,"20.9.2014",376,"Jirí Králícek, Milan Letev","Lubomír Krejcír","Jirí Macek","Marek Michalisko","Radek Gumolka","RegularPhaseMatch","2014/2015",0,14,15,1,3
+165,"Gumárny Zubrí","M.A.T. Plzen",23,18,"20.9.2014",700,"Marek Becicka, Jirí Horák","Jirí Kekrt","Ivo Tovaryš","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,11,6,5,1
+166,"Sokol Prerov","KP Brno",19,39,"21.9.2014",93,"Michal Hanák, Luboš Pavlícek","Kamil Zemánek","Richard Bucek","Andrej Titkov","Gabriela Topinková","RegularPhaseMatch","2014/2015",0,10,16,2,3
+167,"Cement Hranice","Ronal Jicín",23,22,"21.9.2014",205,"Jirí Králícek, Milan Letev","Libor Hrabal","Martin Schober","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",1,11,12,3,1
+168,"SKP Frýdek-Místek","HC Zlín",30,27,"21.9.2014",483,"Jirí Opava,","Aleš Chrastina","Petr Mazur","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,18,13,4,5
+169,"KP Brno","SKP Frýdek-Místek",27,23,"11.9.2014",250,"Marek Becicka, Jirí Horák","Andrej Titkov","Zdenek Zima","Aleš Chrastina","Petr Mazur","RegularPhaseMatch","2014/2015",0,13,13,2,5
+170,"Dukla Praha","Cement Hranice",23,23,"13.9.2014",240,"Milan Hájek, Karel Macho","Jirí Kotrc","Tomáš Petržala","Libor Hrabal","Martin Schober","RegularPhaseMatch","2014/2015",0,14,13,1,1
+171,"M.A.T. Plzen","Sokol Prerov",32,15,"14.9.2014",420,"Jirí Opava,","Martin Šetlík","Stanislav Raizl","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2014/2015",0,13,11,2,3
+172,"Baník OKD Karviná","Gumárny Zubrí",33,27,"14.9.2014",750,"Lukáš Frieser, Dalibor Pavlát","Marek Michalisko","Radek Gumolka","Jirí Kekrt","Ivo Tovaryš","RegularPhaseMatch","2014/2015",0,15,14,3,0
+173,"HC Zlín","A.S.A. Lovosice",28,29,"14.9.2014",350,"Michal Hanák, Luboš Pavlícek","Jirí Micola","Petr Novák","Vladimír Šuma","Pavel Haken","RegularPhaseMatch","2014/2015",0,12,15,1,3
+174,"Ronal Jicín","Tatran Litovel",20,18,"14.9.2014",610,"Bohumil Bruna, Petr Halada","Aleš Babák","Petr Kyncl","Lubomír Krejcír","Jirí Macek","RegularPhaseMatch","2014/2015",0,11,8,3,0
+175,"Baník OKD Karviná","M.A.T. Plzen",32,34,"3.9.2014",690,"Václav Horácek, Jirí Novotný","Marek Michalisko","Radek Gumolka","Martin Šetlík","Stanislav Raizl","RegularPhaseMatch","2014/2015",0,19,13,2,1
+176,"SKP Frýdek-Místek","Sokol Prerov",37,26,"6.9.2014",432,"Michal Nezbeda, Václav Zelenka","Aleš Chrastina","Petr Mazur","Kamil Zemánek","Richard Bucek","RegularPhaseMatch","2014/2015",0,19,12,1,4
+177,"A.S.A. Lovosice","KP Brno",27,26,"6.9.2014",650,"Ludek Tocík, Martin Zych","Vladimír Šuma","Pavel Haken","Andrej Titkov","Zdenek Zima","RegularPhaseMatch","2014/2015",0,15,9,0,2
+178,"Gumárny Zubrí","Ronal Jicín",24,22,"6.9.2014",800,"Michal Hanák, Luboš Pavlícek","Jirí Kekrt","Ivo Tovaryš","Aleš Babák","Petr Kyncl","RegularPhaseMatch","2014/2015",0,14,11,3,1
+179,"Cement Hranice","HC Zlín",25,20,"7.9.2014",215,"Marek Becicka, Jirí Horák","Libor Hrabal","Martin Potiška","Jirí Micola","Petr Novák","RegularPhaseMatch","2014/2015",0,12,9,2,1
+180,"Tatran Litovel","Dukla Praha",22,23,"7.9.2014",470,"Michal Nezbeda, Václav Zelenka","Lubomír Krejcír","Jirí Macek",,"Tomáš Petržala","RegularPhaseMatch","2014/2015",1,10,15,3,4
